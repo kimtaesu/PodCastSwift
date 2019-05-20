@@ -1,0 +1,10 @@
+
+colorPrimary: 311b92
+colorLight: 6746c3
+colorDark: 000063
+
+colorAccent: c62828
+
+bgEditTitle: f6f6f6
+bgTaskCell: eaeaea
+taskEditTextColor: cccccc

@@ -1,0 +1,5 @@
+github "Brightify/Cuckoo"
+github "SwiftyBeaver/SwiftyBeaver"
+github "SnapKit/SnapKit" ~> 5.0.0
+github "Swinject/Swinject"
+github "HeroTransitions/Hero"

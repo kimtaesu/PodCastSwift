@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Flick
+
+  Created by tskim on 30/03/2019.
+  Copyright © 2019 hucet. All rights reserved.
+*/
+"ui_alert_warning_title" = "경고";
+"ui_alert_notice_title" = "알림";
+"ui_alert_ok_title" = "확인";
+"ui_alert_cancel_title" = "취소";
+"error_google_sign_in" = "로그인을 할 수 없습니다.\n%@";
+"error_create_task" = "Task를 생성할 수 없습니다.\n%@";
+
+"ui_alert_empty_contents" = "텍스트가 비어있습니다. 최소 길이(1)를 입력해야 합니다.";
+"ui_alert_delete_contents" = "정말 삭제하시겠습니까?";
+
+"task_title_placeholder" = "What will you do?";
+"task_descriptions_placeholder" = "Descriptions";
+
+"hero_task_title_id" = "hero_task_title_%@";
