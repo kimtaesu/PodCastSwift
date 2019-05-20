@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		98FCD15C9CDC24EB2687D28D /* Pods_PodCastSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 854BDF059908124596DBE654 /* Pods_PodCastSwift.framework */; };
+		BD1D33BB2292DAFB0058222E /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1D33BA2292DAFB0058222E /* HomeViewController.swift */; };
+		BD1D33BE2292DB260058222E /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1D33BD2292DB260058222E /* SearchViewController.swift */; };
+		BD1D33C02292DB880058222E /* SwiftNameIdentifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1D33BF2292DB880058222E /* SwiftNameIdentifier.swift */; };
+		BD1D33C22292DBAD0058222E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1D33C12292DBAD0058222E /* main.swift */; };
+		BD1D33C42292DBC90058222E /* RootContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1D33C32292DBC90058222E /* RootContainer.swift */; };
+		BD1D33C62292DC870058222E /* CompositionRoot.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1D33C52292DC870058222E /* CompositionRoot.swift */; };
 		BDC8B2652292C634008AD81C /* HasDisposeBag.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC8B2602292C634008AD81C /* HasDisposeBag.swift */; };
 		BDC8B2662292C634008AD81C /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC8B2622292C634008AD81C /* Logger.swift */; };
 		BDC8B2672292C634008AD81C /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = BDC8B2632292C634008AD81C /* Localizable.strings */; };
@@ -20,6 +26,7 @@
 		BDC8B2772292C6ED008AD81C /* Cartfile in Resources */ = {isa = PBXBuildFile; fileRef = BDC8B2722292C6ED008AD81C /* Cartfile */; };
 		BDC8B2782292C6ED008AD81C /* swiftgen.yml in Resources */ = {isa = PBXBuildFile; fileRef = BDC8B2732292C6ED008AD81C /* swiftgen.yml */; };
 		BDC8B2792292C6ED008AD81C /* .swiftlint.yml in Resources */ = {isa = PBXBuildFile; fileRef = BDC8B2742292C6ED008AD81C /* .swiftlint.yml */; };
+		BDC8B27C2292C7C6008AD81C /* PodCastApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC8B27B2292C7C6008AD81C /* PodCastApi.swift */; };
 		BDDD405E2292C49D00FFD8DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDD405D2292C49D00FFD8DB /* AppDelegate.swift */; };
 		BDDD40602292C49D00FFD8DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDD405F2292C49D00FFD8DB /* ViewController.swift */; };
 		BDDD40632292C49D00FFD8DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDDD40612292C49D00FFD8DB /* Main.storyboard */; };
@@ -46,6 +53,12 @@
 		83120670FF5610E72D4B9848 /* Pods-PodCastSwiftTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodCastSwiftTests.debug.xcconfig"; path = "Target Support Files/Pods-PodCastSwiftTests/Pods-PodCastSwiftTests.debug.xcconfig"; sourceTree = "<group>"; };
 		8485FE39748AE4DD28F2CDE5 /* Pods-PodCastSwift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodCastSwift.release.xcconfig"; path = "Target Support Files/Pods-PodCastSwift/Pods-PodCastSwift.release.xcconfig"; sourceTree = "<group>"; };
 		854BDF059908124596DBE654 /* Pods_PodCastSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodCastSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD1D33BA2292DAFB0058222E /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		BD1D33BD2292DB260058222E /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		BD1D33BF2292DB880058222E /* SwiftNameIdentifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftNameIdentifier.swift; sourceTree = "<group>"; };
+		BD1D33C12292DBAD0058222E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		BD1D33C32292DBC90058222E /* RootContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootContainer.swift; sourceTree = "<group>"; };
+		BD1D33C52292DC870058222E /* CompositionRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompositionRoot.swift; sourceTree = "<group>"; };
 		BDC8B2602292C634008AD81C /* HasDisposeBag.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HasDisposeBag.swift; sourceTree = "<group>"; };
 		BDC8B2622292C634008AD81C /* Logger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Logger.swift; sourceTree = "<group>"; };
 		BDC8B2642292C634008AD81C /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -58,6 +71,7 @@
 		BDC8B2722292C6ED008AD81C /* Cartfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Cartfile; sourceTree = "<group>"; };
 		BDC8B2732292C6ED008AD81C /* swiftgen.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = swiftgen.yml; sourceTree = "<group>"; };
 		BDC8B2742292C6ED008AD81C /* .swiftlint.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .swiftlint.yml; sourceTree = "<group>"; };
+		BDC8B27B2292C7C6008AD81C /* PodCastApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PodCastApi.swift; sourceTree = "<group>"; };
 		BDDD405A2292C49D00FFD8DB /* PodCastSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PodCastSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDDD405D2292C49D00FFD8DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDDD405F2292C49D00FFD8DB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -109,10 +123,20 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		BD1D33BC2292DB000058222E /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				BD1D33BA2292DAFB0058222E /* HomeViewController.swift */,
+				BD1D33BD2292DB260058222E /* SearchViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
 		BDC8B25F2292C634008AD81C /* Utils */ = {
 			isa = PBXGroup;
 			children = (
 				BDC8B2602292C634008AD81C /* HasDisposeBag.swift */,
+				BD1D33BF2292DB880058222E /* SwiftNameIdentifier.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -123,6 +147,14 @@
 				BDC8B2622292C634008AD81C /* Logger.swift */,
 			);
 			path = Logger;
+			sourceTree = "<group>";
+		};
+		BDC8B27A2292C7B5008AD81C /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				BDC8B27B2292C7C6008AD81C /* PodCastApi.swift */,
+			);
+			path = Network;
 			sourceTree = "<group>";
 		};
 		BDDD40512292C49D00FFD8DB = {
@@ -153,6 +185,8 @@
 		BDDD405C2292C49D00FFD8DB /* PodCastSwift */ = {
 			isa = PBXGroup;
 			children = (
+				BD1D33BC2292DB000058222E /* ViewControllers */,
+				BDC8B27A2292C7B5008AD81C /* Network */,
 				BDC8B2632292C634008AD81C /* Localizable.strings */,
 				BDC8B2612292C634008AD81C /* Logger */,
 				BDC8B25F2292C634008AD81C /* Utils */,
@@ -163,6 +197,9 @@
 				BDDD40692292C49E00FFD8DB /* LaunchScreen.storyboard */,
 				BDDD406C2292C49E00FFD8DB /* Info.plist */,
 				BDDD40642292C49D00FFD8DB /* PodCastSwift.xcdatamodeld */,
+				BD1D33C12292DBAD0058222E /* main.swift */,
+				BD1D33C32292DBC90058222E /* RootContainer.swift */,
+				BD1D33C52292DC870058222E /* CompositionRoot.swift */,
 			);
 			path = PodCastSwift;
 			sourceTree = "<group>";
@@ -204,6 +241,7 @@
 				BDC8B25E2292C5E8008AD81C /* [CP] Copy Carthage Resources */,
 				8DF224A7D4BAF55EBC142C92 /* [CP] Embed Pods Frameworks */,
 				BDC8B25D2292C5D5008AD81C /* Cuckoo */,
+				BD1D33C72292DDEA0058222E /* Fabric */,
 			);
 			buildRules = (
 			);
@@ -362,6 +400,25 @@
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-PodCastSwift/Pods-PodCastSwift-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
+		};
+		BD1D33C72292DDEA0058222E /* Fabric */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$(BUILT_PRODUCTS_DIR)/$(INFOPLIST_PATH)",
+			);
+			name = Fabric;
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Fabric/run\" 01a8a326ef40f1e4010685ff3fe389ad91c04149 4f7b6feb7d1e7498160d8920b040828ccb45071a71a170c4006a4075e69fd0c8\n";
 		};
 		BDC8B25A2292C5A8008AD81C /* Mark */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -522,9 +579,16 @@
 			files = (
 				BDC8B2662292C634008AD81C /* Logger.swift in Sources */,
 				BDDD40602292C49D00FFD8DB /* ViewController.swift in Sources */,
+				BD1D33BE2292DB260058222E /* SearchViewController.swift in Sources */,
 				BDDD405E2292C49D00FFD8DB /* AppDelegate.swift in Sources */,
+				BD1D33C62292DC870058222E /* CompositionRoot.swift in Sources */,
 				BDDD40662292C49D00FFD8DB /* PodCastSwift.xcdatamodeld in Sources */,
 				BDC8B2652292C634008AD81C /* HasDisposeBag.swift in Sources */,
+				BD1D33C22292DBAD0058222E /* main.swift in Sources */,
+				BD1D33BB2292DAFB0058222E /* HomeViewController.swift in Sources */,
+				BDC8B27C2292C7C6008AD81C /* PodCastApi.swift in Sources */,
+				BD1D33C02292DB880058222E /* SwiftNameIdentifier.swift in Sources */,
+				BD1D33C42292DBC90058222E /* RootContainer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
