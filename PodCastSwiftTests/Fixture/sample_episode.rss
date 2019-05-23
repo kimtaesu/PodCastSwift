@@ -1,0 +1,1083 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:155470080/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:155470080/sounds.rss?before=208440341" rel="next" type="application/rss+xml"/>
+        <title>Cloud TnT</title>
+        <link>http://www.cloudtnt.com</link>
+        <pubDate>Wed, 22 Feb 2017 01:38:44 +0000</pubDate>
+        <lastBuildDate>Wed, 22 Feb 2017 01:38:44 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>A podcast for nonprofits using Salesforce, Cloud TnT is an ongoing conversation about issues facing small but mighty organizations using Salesforce to accomplish their missions.
+            
+            Cloud TnT is a joint project of three friends from two companies: Tracy Kronzak (BrightStep Partners), Tim Lockie, and Joni Martin (Now IT Matters).  </description>
+        <itunes:subtitle>A podcast for nonprofits using Salesforce, Cloud …</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Cloud TnT</itunes:name>
+            <itunes:email>info@cloudtnt.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000178764542-vl3mon-original.jpg"/>
+        <image>
+            <url>http://i1.sndcdn.com/avatars-000178764542-vl3mon-original.jpg</url>
+            <title>Cloud TnT</title>
+            <link>http://www.cloudtnt.com</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/308927221</guid>
+            <title>When you want to be an archivist, but the webmaster leaves: Rachel Murray</title>
+            <pubDate>Wed, 22 Feb 2017 01:38:44 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/rachelmurray</link>
+            <itunes:duration>00:57:12</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>While Tracy is out on a ski day, Tim and Joni are joined by the amazing ​Rachel Murray from She Geeks Out​ who shares her journey from an aspiring archivist to leading corporate trainings to foster an inclusive culture. Don't miss the rambling conversation which includes movies, presents for adolescents, favorite wordpress plugins, B Corps, and organizational trainings. Plus a shout out cameo from our favorite podcast editor!</itunes:summary>
+            <itunes:subtitle>While Tracy is out on a ski day, Tim and Joni are…</itunes:subtitle>
+            <description>While Tracy is out on a ski day, Tim and Joni are joined by the amazing ​Rachel Murray from She Geeks Out​ who shares her journey from an aspiring archivist to leading corporate trainings to foster an inclusive culture. Don't miss the rambling conversation which includes movies, presents for adolescents, favorite wordpress plugins, B Corps, and organizational trainings. Plus a shout out cameo from our favorite podcast editor!</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/308927221-cloud-tnt-rachelmurray.mp3" length="22069144"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000208961749-bhx1ul-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/299716242</guid>
+            <title>Something I’d Never Have Otherwise Discovered: Anne Young</title>
+            <pubDate>Tue, 27 Dec 2016 01:06:36 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/something-id-never-have-otherwise-discovered-anne-young</link>
+            <itunes:duration>01:06:42</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>In our final episode of 2016, we talk about upcoming events and changes in Salesforcelandia in 2017, including conferences, certifications, Trailhead, and our upcoming show schedule.  We spend amazing quality time with Salesforce.org Community Manager, Anne Young, talking about women in technology, running the Power of Us Hub, keeping the Salesforce community playful, the technology and tools behind keeping the Salesforce community alive.  Star Wars, Mean Girls, and dinosaurs also make cameos.</itunes:summary>
+            <itunes:subtitle>In our final episode of 2016, we talk about upcom…</itunes:subtitle>
+            <description>In our final episode of 2016, we talk about upcoming events and changes in Salesforcelandia in 2017, including conferences, certifications, Trailhead, and our upcoming show schedule.  We spend amazing quality time with Salesforce.org Community Manager, Anne Young, talking about women in technology, running the Power of Us Hub, keeping the Salesforce community playful, the technology and tools behind keeping the Salesforce community alive.  Star Wars, Mean Girls, and dinosaurs also make cameos.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/299716242-cloud-tnt-something-id-never-have-otherwise-discovered-anne-young.mp3" length="40026154"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000200199010-73hyeh-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/296412630</guid>
+            <title>Concern for Tomorrow: Marisa Lopez</title>
+            <pubDate>Mon, 05 Dec 2016 22:11:53 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/concern-for-tomorrow-marisa-lopez</link>
+            <itunes:duration>01:06:49</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Our take on the election from last month, then Tim ditches us, and Joni and Tracy have a discussion of environmental activism and the preservation of the oceans in the context of Salesforcelandia.  We cover how ocean preservation intersects with existing and new initiatives, ocean protection, and growing up in our ecosystem as women in tech.</itunes:summary>
+            <itunes:subtitle>Our take on the election from last month, then Ti…</itunes:subtitle>
+            <description>Our take on the election from last month, then Tim ditches us, and Joni and Tracy have a discussion of environmental activism and the preservation of the oceans in the context of Salesforcelandia.  We cover how ocean preservation intersects with existing and new initiatives, ocean protection, and growing up in our ecosystem as women in tech.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/296412630-cloud-tnt-concern-for-tomorrow-marisa-lopez.mp3" length="80188636"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000197032282-sh4431-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/293048779</guid>
+            <title>Being a Changemaker: Shonnah Hughes</title>
+            <pubDate>Mon, 14 Nov 2016 22:33:39 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/being-a-changemaker-shonnah-hughes</link>
+            <itunes:duration>00:56:01</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT talks cherry pie, guinea pigs, NPSP Days, and Tim’s kids.  And, much more substantively, race, gender, justice, the difference between being an ally and accomplice, and the world of technology with recent MVP Shonnah Hughes, including her Trailhead for All initiative.  This one got out a bit late due to the recent election, but is perhaps now even that much more relevant.  One of our recent favorite discussions, and something we hope has some wisdom and comfort in it right now.</itunes:summary>
+            <itunes:subtitle>Cloud TnT talks cherry pie, guinea pigs, NPSP Day…</itunes:subtitle>
+            <description>Cloud TnT talks cherry pie, guinea pigs, NPSP Days, and Tim’s kids.  And, much more substantively, race, gender, justice, the difference between being an ally and accomplice, and the world of technology with recent MVP Shonnah Hughes, including her Trailhead for All initiative.  This one got out a bit late due to the recent election, but is perhaps now even that much more relevant.  One of our recent favorite discussions, and something we hope has some wisdom and comfort in it right now.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/293048779-cloud-tnt-being-a-changemaker-shonnah-hughes.mp3" length="33609437"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000193577494-kdj2xt-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/289981303</guid>
+            <title>That Much Better for Someone Else: Nick Lindberg</title>
+            <pubDate>Wed, 26 Oct 2016 00:07:41 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/that-much-better-for-someone-else-nick-lindberg</link>
+            <itunes:duration>00:48:33</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>A more humorous review of Dreamforce 16 recorded BEFORE Dreamforce – yeah, we’re that good. And we also talk to MVP Nick Lindberg about service, friendship, and the Good Old Days of Salesforcelandia.  A heartwarming story of family and community ensues.</itunes:summary>
+            <itunes:subtitle>A more humorous review of Dreamforce 16 recorded …</itunes:subtitle>
+            <description>A more humorous review of Dreamforce 16 recorded BEFORE Dreamforce – yeah, we’re that good. And we also talk to MVP Nick Lindberg about service, friendship, and the Good Old Days of Salesforcelandia.  A heartwarming story of family and community ensues.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/289981303-cloud-tnt-that-much-better-for-someone-else-nick-lindberg.mp3" length="29131526"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000190643668-hn4e2k-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/287723978</guid>
+            <title>Dreamforce 2016 and All The Things</title>
+            <pubDate>Fri, 14 Oct 2016 20:20:42 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/dreamforce-2016-and-all-the-things</link>
+            <itunes:duration>01:01:03</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>One week after the week of Dreamforce 2016 ends, Cloud TnT reflects on our experiences and what's next.  Lots of shout-outs to our friends and family, with thanks to our listeners and sponsors.</itunes:summary>
+            <itunes:subtitle>One week after the week of Dreamforce 2016 ends, …</itunes:subtitle>
+            <description>One week after the week of Dreamforce 2016 ends, Cloud TnT reflects on our experiences and what's next.  Lots of shout-outs to our friends and family, with thanks to our listeners and sponsors.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/287723978-cloud-tnt-dreamforce-2016-and-all-the-things.mp3" length="36635460"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000188353525-d2kho2-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/284767228</guid>
+            <title>Bringing Us Together: Bonny Hinners</title>
+            <pubDate>Mon, 26 Sep 2016 18:32:31 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/bringing-us-together-bonny-hinners</link>
+            <itunes:duration>00:41:41</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>A lively discussion with #AwesomeAdmin, User Group leader, and MVP Bonny Hinners all about how important the customer is to Salesforce, and the changing role of the Salesforce community.  A great segue to Dreamforce and the newly-announced Nonprofit Success Pack, covering the Dreamforce keynote previews and the Boston NPSP Sprint.  We’re super excited to be heading to Dreamforce this year!</itunes:summary>
+            <itunes:subtitle>A lively discussion with #AwesomeAdmin, User Grou…</itunes:subtitle>
+            <description>A lively discussion with #AwesomeAdmin, User Group leader, and MVP Bonny Hinners all about how important the customer is to Salesforce, and the changing role of the Salesforce community.  A great segue to Dreamforce and the newly-announced Nonprofit Success Pack, covering the Dreamforce keynote previews and the Boston NPSP Sprint.  We’re super excited to be heading to Dreamforce this year!</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/284767228-cloud-tnt-bringing-us-together-bonny-hinners.mp3" length="25013059"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000185331773-afrykr-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/282499101</guid>
+            <title>The Next Level: Adam Kramer</title>
+            <pubDate>Mon, 12 Sep 2016 02:39:04 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/the-next-level-adam-kramer</link>
+            <itunes:duration>00:47:56</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>While Tim’s away, Cloud TnT is helmed by Joni and Tracy with a fantastic interview with #AwesomeAdmin and consultant extraordinaire, Don Draper.  We mean, Adam Kramer.  Topics include NPSP evangelism, the NPSP Advisory Board, and building on the NPSP as a technical and community tool, and taking it all to the next level.  Does the NPSP have a new mascot? It just might…</itunes:summary>
+            <itunes:subtitle>While Tim’s away, Cloud TnT is helmed by Joni and…</itunes:subtitle>
+            <description>While Tim’s away, Cloud TnT is helmed by Joni and Tracy with a fantastic interview with #AwesomeAdmin and consultant extraordinaire, Don Draper.  We mean, Adam Kramer.  Topics include NPSP evangelism, the NPSP Advisory Board, and building on the NPSP as a technical and community tool, and taking it all to the next level.  Does the NPSP have a new mascot? It just might…</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/282499101-cloud-tnt-the-next-level-adam-kramer.mp3" length="28768683"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000182953105-uydl8b-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/280991833</guid>
+            <title>Cool Stuff and Opinions About Things</title>
+            <pubDate>Fri, 02 Sep 2016 00:13:21 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/cool-stuff-and-opinions-about-things</link>
+            <itunes:duration>00:39:37</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>In the final episode of our summer break, we talk about stuff we think is cool. And things. Related to Salesforce. And nonprofits. We promise. A wide-ranging discussion that seems to mostly cover Trailhead, Open Sourcery, the Nonprofit Starter Pack Advisory Board, worst case scenarios, and more. This is what happens when we don’t have a guest, folks. Enjoy!</itunes:summary>
+            <itunes:subtitle>In the final episode of our summer break, we talk…</itunes:subtitle>
+            <description>In the final episode of our summer break, we talk about stuff we think is cool. And things. Related to Salesforce. And nonprofits. We promise. A wide-ranging discussion that seems to mostly cover Trailhead, Open Sourcery, the Nonprofit Starter Pack Advisory Board, worst case scenarios, and more. This is what happens when we don’t have a guest, folks. Enjoy!</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/280991833-cloud-tnt-cool-stuff-and-opinions-about-things.mp3" length="23769886"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000180099463-e6h2i0-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/278657842</guid>
+            <title>That Events Episode</title>
+            <pubDate>Wed, 17 Aug 2016 15:00:34 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/that-events-episode</link>
+            <itunes:duration>00:58:19</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Summer fun with Joni, Tim, and Tracy talking about all the recent and upcoming events in Salesforcelandia: from the MVP Lightning Summit and Midwest Dreamin' in Chicago, to Sprints, and straight on through to Dreamforce.  And our usual tangents...</itunes:summary>
+            <itunes:subtitle>Summer fun with Joni, Tim, and Tracy talking abou…</itunes:subtitle>
+            <description>Summer fun with Joni, Tim, and Tracy talking about all the recent and upcoming events in Salesforcelandia: from the MVP Lightning Summit and Midwest Dreamin' in Chicago, to Sprints, and straight on through to Dreamforce.  And our usual tangents...</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/278657842-cloud-tnt-that-events-episode.mp3" length="34988693"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000177144594-i4jjo9-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/277426210</guid>
+            <title>Everything Changes: Joni, Tim, Tracy</title>
+            <pubDate>Mon, 08 Aug 2016 23:39:44 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/everything-changes-joni-tim-tracy</link>
+            <itunes:duration>00:43:40</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Tim, Joni, and Tracy talk about the massive changes each are undergoing, including departing Now It Matters and BrightStep Partners, and their ongoing commitment to the community and Cloud TnT.  There’s a lot of love and appreciation in this recording, as well as talk about how doing the podcast together has changed each other.  Tracy cries, Tim swears he isn’t, and Joni reminds everyone why we’re grateful for our world.  Everyone gets #TheFeels, and we set the stage for a short summer break and return to recording together.</itunes:summary>
+            <itunes:subtitle>Tim, Joni, and Tracy talk about the massive chang…</itunes:subtitle>
+            <description>Tim, Joni, and Tracy talk about the massive changes each are undergoing, including departing Now It Matters and BrightStep Partners, and their ongoing commitment to the community and Cloud TnT.  There’s a lot of love and appreciation in this recording, as well as talk about how doing the podcast together has changed each other.  Tracy cries, Tim swears he isn’t, and Joni reminds everyone why we’re grateful for our world.  Everyone gets #TheFeels, and we set the stage for a short summer break and return to recording together.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/277426210-cloud-tnt-everything-changes-joni-tim-tracy.mp3" length="26199796"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000175456435-inwfdq-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/275313501</guid>
+            <title>A Screwdriver and Lightning Boat: Steve Molis</title>
+            <pubDate>Mon, 25 Jul 2016 18:36:43 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/a-screwdriver-and-lightning-boat-steve-molis</link>
+            <itunes:duration>00:56:54</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>A Very Special Cloud TnT with Salesforce superstar Steve Molis.  Cloud TnT covers all kinds of ground, from answering questions and being of genuine service, to equality for all.  Tracy fangirls out, and then cries (again).  SteveMo chokes up. This is a golden recording, and there are no words for how much fun we had, just listen…</itunes:summary>
+            <itunes:subtitle>A Very Special Cloud TnT with Salesforce supersta…</itunes:subtitle>
+            <description>A Very Special Cloud TnT with Salesforce superstar Steve Molis.  Cloud TnT covers all kinds of ground, from answering questions and being of genuine service, to equality for all.  Tracy fangirls out, and then cries (again).  SteveMo chokes up. This is a golden recording, and there are no words for how much fun we had, just listen…</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/275313501-cloud-tnt-a-screwdriver-and-lightning-boat-steve-molis.mp3" length="34140237"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000173248576-d3lx46-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/273429151</guid>
+            <title>You Really Have to Solve the Problem: Chris Robinson</title>
+            <pubDate>Wed, 13 Jul 2016 04:19:06 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/you-really-have-to-solve-the-problem-chris-robinson</link>
+            <itunes:duration>00:43:38</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>While Tracy is away, Joni and Tim continue Cloud TnT’s #AwesomeAdmin series.  Mothers Against Drunk Driving uses Salesforce to help deliver its nationwide services, and Chris talks about his journey implementing, his organization’s work, creating buy-in, and how being a Salesforce administrator fits in to all of it.  </itunes:summary>
+            <itunes:subtitle>While Tracy is away, Joni and Tim continue Cloud …</itunes:subtitle>
+            <description>While Tracy is away, Joni and Tim continue Cloud TnT’s #AwesomeAdmin series.  Mothers Against Drunk Driving uses Salesforce to help deliver its nationwide services, and Chris talks about his journey implementing, his organization’s work, creating buy-in, and how being a Salesforce administrator fits in to all of it.  </description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/273429151-cloud-tnt-you-really-have-to-solve-the-problem-chris-robinson.mp3" length="26179943"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000171238530-t9mnwz-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/271070090</guid>
+            <title>Thankfully, It’s Not That Simple: Nicholas Zinser</title>
+            <pubDate>Mon, 27 Jun 2016 14:34:23 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/thankfully-its-not-that-simple-nicholas-zinser</link>
+            <itunes:duration>00:50:25</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Joni and Tracy take the helm while Tim is away for another foray into the world of higher education... Eventually.  In the meantime, we talk about space, the upcoming Dreamforce band and speakers, and other topics and hijinks.  We cover more about how Salesforce works for higher education institutions, the HEDA and Unity applications, integrations and instance proliferation, and change management in large-scale enterprises to help Salesforce move them forward. The episode in which The Woz touches all of Tracy’s special places.</itunes:summary>
+            <itunes:subtitle>Joni and Tracy take the helm while Tim is away fo…</itunes:subtitle>
+            <description>Joni and Tracy take the helm while Tim is away for another foray into the world of higher education... Eventually.  In the meantime, we talk about space, the upcoming Dreamforce band and speakers, and other topics and hijinks.  We cover more about how Salesforce works for higher education institutions, the HEDA and Unity applications, integrations and instance proliferation, and change management in large-scale enterprises to help Salesforce move them forward. The episode in which The Woz touches all of Tracy’s special places.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/271070090-cloud-tnt-thankfully-its-not-that-simple-nicholas-zinser.mp3" length="60501190"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000169154205-bueiet-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/269591079</guid>
+            <title>A Thousand Ways to Do Things: Kari Bryan</title>
+            <pubDate>Fri, 17 Jun 2016 13:32:11 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/a-thousand-ways-to-do-things-kari-bryan</link>
+            <itunes:duration>00:48:36</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT has its oddest start yet, and talks goings-on in the nonprofit world with a #BundleofFundle.  The crew takes its first foray into higher education, talking about how Salesforce is being used by colleges and universities to break down data silos in these institutions.  Kari educates us about the politics, needs, and innovation happening with Salesforce and HEDA, Unity, and other ways of using Salesforce for these schools. Cloud TnT gets its second sponsor, and - Pssst! Kari is Joni’s fiancée.</itunes:summary>
+            <itunes:subtitle>Cloud TnT has its oddest start yet, and talks goi…</itunes:subtitle>
+            <description>Cloud TnT has its oddest start yet, and talks goings-on in the nonprofit world with a #BundleofFundle.  The crew takes its first foray into higher education, talking about how Salesforce is being used by colleges and universities to break down data silos in these institutions.  Kari educates us about the politics, needs, and innovation happening with Salesforce and HEDA, Unity, and other ways of using Salesforce for these schools. Cloud TnT gets its second sponsor, and - Pssst! Kari is Joni’s fiancée.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/269591079-cloud-tnt-a-thousand-ways-to-do-things-kari-bryan.mp3" length="29165478"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000167794983-rv4hfr-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/267793712</guid>
+            <title>Technology is a Lever to Engagement: David Manelski</title>
+            <pubDate>Mon, 06 Jun 2016 12:31:32 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/technology-is-a-lever-to-engagement-david-manelski</link>
+            <itunes:duration>00:47:33</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT talks enterprise system teams, running the internal systems behind the Nonprofit Starter Pack, growing and supporting staff in their work, and making Salesforce.org a better place one team at a time.  By focusing on why organizations work, and knowing how they work as it relates to technology, they can deliver their mission with greater strength. Tracy gives epoxy to all the Cloud TnT listeners and sponsors, Joni is working on picking her “Very Girlforce” wedding.</itunes:summary>
+            <itunes:subtitle>Cloud TnT talks enterprise system teams, running …</itunes:subtitle>
+            <description>Cloud TnT talks enterprise system teams, running the internal systems behind the Nonprofit Starter Pack, growing and supporting staff in their work, and making Salesforce.org a better place one team at a time.  By focusing on why organizations work, and knowing how they work as it relates to technology, they can deliver their mission with greater strength. Tracy gives epoxy to all the Cloud TnT listeners and sponsors, Joni is working on picking her “Very Girlforce” wedding.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/267793712-cloud-tnt-technology-is-a-lever-to-engagement-david-manelski.mp3" length="28535143"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000166183718-jgfase-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/266836378</guid>
+            <title>What is the problem we’re trying to solve? Mary Pustejovsky</title>
+            <pubDate>Tue, 31 May 2016 21:16:06 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/what-is-the-problem-were-trying-to-solve-mary-pustejovsky</link>
+            <itunes:duration>00:50:59</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Joni and Tracy play while Tim’s away and talk about creating the core features of the Nonprofit Starter Pack, scalping hotel rooms and AirBnB spots for Dreamforce, mentorship and its impact on our lives, thinking big picture, and what the heck a Technical Product Manager actually does. Tracy talks NA14, and CloudTnT gets it’s first official sponsor!</itunes:summary>
+            <itunes:subtitle>Joni and Tracy play while Tim’s away and talk abo…</itunes:subtitle>
+            <description>Joni and Tracy play while Tim’s away and talk about creating the core features of the Nonprofit Starter Pack, scalping hotel rooms and AirBnB spots for Dreamforce, mentorship and its impact on our lives, thinking big picture, and what the heck a Technical Product Manager actually does. Tracy talks NA14, and CloudTnT gets it’s first official sponsor!</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/266836378-cloud-tnt-what-is-the-problem-were-trying-to-solve-mary-pustejovsky.mp3" length="30597512"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000165296309-alb0z0-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/262408127</guid>
+            <title>An Authentic Life As Possible: Ashima Saigal</title>
+            <pubDate>Wed, 04 May 2016 04:22:24 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/an-authentic-life-as-possible-ashima-saigal</link>
+            <itunes:duration>00:48:45</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>While Joni’s away, Tim and Tracy talk incredibly personal with Salesforce MVP Ashima Saigal about business, mindfulness, spirituality, racism, and women in technology.  Tracy cries, Tim learns, and all three of them walk away from a conversation about hard topics with new levels of respect, joy, and awe for the world we inhabit.  This was one of our all-time favorite discussions to-date, and we are profoundly grateful for being able to share it.</itunes:summary>
+            <itunes:subtitle>While Joni’s away, Tim and Tracy talk incredibly …</itunes:subtitle>
+            <description>While Joni’s away, Tim and Tracy talk incredibly personal with Salesforce MVP Ashima Saigal about business, mindfulness, spirituality, racism, and women in technology.  Tracy cries, Tim learns, and all three of them walk away from a conversation about hard topics with new levels of respect, joy, and awe for the world we inhabit.  This was one of our all-time favorite discussions to-date, and we are profoundly grateful for being able to share it.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/262408127-cloud-tnt-an-authentic-life-as-possible-ashima-saigal.mp3" length="46698230"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000161277540-89eylz-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/260014238</guid>
+            <title>Arts, Technology and the Unexpected Admin: Caroline Renard</title>
+            <pubDate>Wed, 20 Apr 2016 14:06:29 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/arts-technology-and-the-unexpected-admin-caroline-renard</link>
+            <itunes:duration>00:52:12</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT is reminded that we’re still the colonies, that everything sounds better in a British accent, and theater and the arts are amazing forms of community service. Aptitude gets you a long way, and helps a person to understand how to unpick data, get over data silos, and use cool and amazing tools.  But, it’s how you use it that matters.</itunes:summary>
+            <itunes:subtitle>Cloud TnT is reminded that we’re still the coloni…</itunes:subtitle>
+            <description>Cloud TnT is reminded that we’re still the colonies, that everything sounds better in a British accent, and theater and the arts are amazing forms of community service. Aptitude gets you a long way, and helps a person to understand how to unpick data, get over data silos, and use cool and amazing tools.  But, it’s how you use it that matters.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/260014238-cloud-tnt-arts-technology-and-the-unexpected-admin-caroline-renard.mp3" length="31322934"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000159056122-zs49ux-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/253692461</guid>
+            <title>One Database at A Time: Dave Habib</title>
+            <pubDate>Sun, 20 Mar 2016 22:56:19 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/one-database-at-a-time-dave-habib</link>
+            <itunes:duration>00:41:54</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Just in time for the March 2016 San Francisco Nonprofit Starter Pack Sprint, product manager and developer extraordinaire, Dave Habib talks about how to build a product and how his contributions to the Salesforce for nonprofits community, Volunteers for Salesforce and Auctions for Salesforce, were developed.  A pinnacle story of community contribution ensues, along with perhaps one of the best celebrity impressions we’ve ever heard.  Joni tells everyone more about the Girlforce trip to Ethiopia, with a shout out to the work of previous Cloud TnT guest, Ben Beisswenger.</itunes:summary>
+            <itunes:subtitle>Just in time for the March 2016 San Francisco Non…</itunes:subtitle>
+            <description>Just in time for the March 2016 San Francisco Nonprofit Starter Pack Sprint, product manager and developer extraordinaire, Dave Habib talks about how to build a product and how his contributions to the Salesforce for nonprofits community, Volunteers for Salesforce and Auctions for Salesforce, were developed.  A pinnacle story of community contribution ensues, along with perhaps one of the best celebrity impressions we’ve ever heard.  Joni tells everyone more about the Girlforce trip to Ethiopia, with a shout out to the work of previous Cloud TnT guest, Ben Beisswenger.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/253692461-cloud-tnt-one-database-at-a-time-dave-habib.mp3" length="25148371"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000152672311-wlvuyu-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/251773584</guid>
+            <title>Seeing Through More Than One Mission: Christian Carter</title>
+            <pubDate>Mon, 14 Mar 2016 06:21:44 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/seeing-through-more-than-one-mission-christian-carter</link>
+            <itunes:duration>00:52:30</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT goes on an adventure with #AwesomeAdmin and new MVP Christian Carter.  We talk about dating advice, learning enough to be dangerous, being community allies, and the fun and joy of Slack channels in the NPO world.  Also, Cloud TnT begins what will assuredly be a long, controversial, and wide-ranging discussion of Open Sourcery in the world of nonprofit Salesforce users.</itunes:summary>
+            <itunes:subtitle>Cloud TnT goes on an adventure with #AwesomeAdmin…</itunes:subtitle>
+            <description>Cloud TnT goes on an adventure with #AwesomeAdmin and new MVP Christian Carter.  We talk about dating advice, learning enough to be dangerous, being community allies, and the fun and joy of Slack channels in the NPO world.  Also, Cloud TnT begins what will assuredly be a long, controversial, and wide-ranging discussion of Open Sourcery in the world of nonprofit Salesforce users.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/251773584-cloud-tnt-seeing-through-more-than-one-mission-christian-carter.mp3" length="31502917"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000150836463-ggbsb4-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/248960213</guid>
+            <title>A Family Is Good for The World: Ben Beisswenger</title>
+            <pubDate>Fri, 26 Feb 2016 04:27:29 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/a-family-is-good-for-the-world-ben-beisswenger</link>
+            <itunes:duration>00:49:45</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>This week, on a Very Special Cloud TnT, we talk about family values... (just kidding!), but we do cover families of choice, and the value of families.  Another international journeying community member talks about his experiences and learning, and the role that being present and building trust and vulnerability can play.  Cloud TnT is fascinated by Matt Damon, economic agency, and Greek words.  Shout-outs to Girlforce and its amazing trip to Ethiopia happening this week, selling Salesforce as an Account Executive, and when trainwrecks happen.</itunes:summary>
+            <itunes:subtitle>This week, on a Very Special Cloud TnT, we talk a…</itunes:subtitle>
+            <description>This week, on a Very Special Cloud TnT, we talk about family values... (just kidding!), but we do cover families of choice, and the value of families.  Another international journeying community member talks about his experiences and learning, and the role that being present and building trust and vulnerability can play.  Cloud TnT is fascinated by Matt Damon, economic agency, and Greek words.  Shout-outs to Girlforce and its amazing trip to Ethiopia happening this week, selling Salesforce as an Account Executive, and when trainwrecks happen.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/248960213-cloud-tnt-a-family-is-good-for-the-world-ben-beisswenger.mp3" length="29852240"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000148667769-grbee5-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/245982581</guid>
+            <title>Listening is The Key: Trish Perkins</title>
+            <pubDate>Mon, 08 Feb 2016 04:46:30 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/listening-is-the-key-trish-perkins</link>
+            <itunes:duration>00:38:20</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Listening to others, knowing people and culture, and applying humility and willingness to fail to both, #AwesomeAdmin Trish Perkins shares her wisdom on international travel and its relevance to Salesforce.  People are more important than a “to-do” list anywhere we go.  Cloud TnT is stunned into silence by warmed-up buckets, and instead talks about not crying, current events, and new Trailhead awesomeness.</itunes:summary>
+            <itunes:subtitle>Listening to others, knowing people and culture, …</itunes:subtitle>
+            <description>Listening to others, knowing people and culture, and applying humility and willingness to fail to both, #AwesomeAdmin Trish Perkins shares her wisdom on international travel and its relevance to Salesforce.  People are more important than a “to-do” list anywhere we go.  Cloud TnT is stunned into silence by warmed-up buckets, and instead talks about not crying, current events, and new Trailhead awesomeness.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/245982581-cloud-tnt-listening-is-the-key-trish-perkins.mp3" length="23003719"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000146310790-ddu9ez-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/244843187</guid>
+            <title>Something More to Be Created: Amanda Byrne</title>
+            <pubDate>Mon, 01 Feb 2016 06:19:07 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/something-more-to-be-created-amanda-byrne</link>
+            <itunes:duration>00:48:21</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT kicks off its #AwesomeAdmin series with Amanda Byrne, who talks about her own journey becoming an administrator, things of which to be mindful in an administrator role, and sharing our stories.  Insomnia, community, and shout outs to #TahoeDreamin</itunes:summary>
+            <itunes:subtitle>Cloud TnT kicks off its #AwesomeAdmin series with…</itunes:subtitle>
+            <description>Cloud TnT kicks off its #AwesomeAdmin series with Amanda Byrne, who talks about her own journey becoming an administrator, things of which to be mindful in an administrator role, and sharing our stories.  Insomnia, community, and shout outs to #TahoeDreamin</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/244843187-cloud-tnt-something-more-to-be-created-amanda-byrne.mp3" length="29010313"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000145406070-ueijen-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/241726517</guid>
+            <title>Vulnerability, The Universe, and Everything Changes: Welcome 2016!</title>
+            <pubDate>Wed, 13 Jan 2016 06:29:53 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/vulnerability-the-universe-and-everything-changes-welcome-2016</link>
+            <itunes:duration>00:53:50</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Tim, Tracy, and Joni ring in the new year with updates on important dates and goings on.  An in-depth talk about Girlforce and how men can be allies, goings-on for the Salesforce platform and nonprofit ecosystem, and changes happening at Salesforce.org and what Salesforce.org means and represents in 2016.  Tracy chokes up and gets teary, Tim talks economics, and Joni steals the show.</itunes:summary>
+            <itunes:subtitle>Tim, Tracy, and Joni ring in the new year with up…</itunes:subtitle>
+            <description>Tim, Tracy, and Joni ring in the new year with updates on important dates and goings on.  An in-depth talk about Girlforce and how men can be allies, goings-on for the Salesforce platform and nonprofit ecosystem, and changes happening at Salesforce.org and what Salesforce.org means and represents in 2016.  Tracy chokes up and gets teary, Tim talks economics, and Joni steals the show.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/241726517-cloud-tnt-vulnerability-the-universe-and-everything-changes-welcome-2016.mp3" length="38760418"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000142950660-h0r8oq-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/237784536</guid>
+            <title>Here it is! Good Luck! Ha-Ha! Chris Duarte</title>
+            <pubDate>Wed, 16 Dec 2015 06:40:30 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/here-it-is-good-luck-ha-ha-chris-duarte</link>
+            <itunes:duration>00:48:57</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT talks with Chris Duarte, Managing Editor of Salesforce Trailhead.  This is a great path to follow, for all listeners to learn about the behind-the-scenes at one of the breakout tools of 2015.  Our final 2015 podcast, Cloud TnT is grateful, dinosaurs, twits, shock-collars and all.</itunes:summary>
+            <itunes:subtitle>Cloud TnT talks with Chris Duarte, Managing Edito…</itunes:subtitle>
+            <description>Cloud TnT talks with Chris Duarte, Managing Editor of Salesforce Trailhead.  This is a great path to follow, for all listeners to learn about the behind-the-scenes at one of the breakout tools of 2015.  Our final 2015 podcast, Cloud TnT is grateful, dinosaurs, twits, shock-collars and all.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/237784536-cloud-tnt-here-it-is-good-luck-ha-ha-chris-duarte.mp3" length="35250821"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000139755420-79ue32-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/234307471</guid>
+            <title>We Are Connected: Amy Sample Ward</title>
+            <pubDate>Mon, 23 Nov 2015 07:11:11 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/we-are-connected-amy-sample-ward</link>
+            <itunes:duration>00:46:39</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>NTEN Director Amy Sample Ward talks on the value of connection and community, its application to nonprofits implementing technology of all kinds, and why having a community invested in itself is the best support for technologists.</itunes:summary>
+            <itunes:subtitle>NTEN Director Amy Sample Ward talks on the value …</itunes:subtitle>
+            <description>NTEN Director Amy Sample Ward talks on the value of connection and community, its application to nonprofits implementing technology of all kinds, and why having a community invested in itself is the best support for technologists.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/234307471-cloud-tnt-we-are-connected-amy-sample-ward.mp3" length="55948699"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000137066151-4mpwnp-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/231322323</guid>
+            <title>If One Person Changes, It Was Worth It: Mike Gerholdt</title>
+            <pubDate>Tue, 03 Nov 2015 06:24:07 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/if-one-person-changes-it-was-worth-it-mike-gerholdt</link>
+            <itunes:duration>00:46:30</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT and Mike Gerholdt chat about how community is built, and the means by how people become empowered.  Building community is taking information that is being put out there, and helping others make the world a better place with it.  You can curate content, or connect people, and at the end of the day there’s a ton of ways to contribute. We also talked about System Administrators and bus drivers.</itunes:summary>
+            <itunes:subtitle>Cloud TnT and Mike Gerholdt chat about how commun…</itunes:subtitle>
+            <description>Cloud TnT and Mike Gerholdt chat about how community is built, and the means by how people become empowered.  Building community is taking information that is being put out there, and helping others make the world a better place with it.  You can curate content, or connect people, and at the end of the day there’s a ton of ways to contribute. We also talked about System Administrators and bus drivers.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/231322323-cloud-tnt-if-one-person-changes-it-was-worth-it-mike-gerholdt.mp3" length="59950513"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000134867089-w7zc97-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/229902704</guid>
+            <title>Be Afraid, But Do It Anyway</title>
+            <pubDate>Sat, 24 Oct 2015 18:29:45 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/be-afraid-but-do-it-anyway</link>
+            <itunes:duration>00:43:37</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT talks about taxes, events, and secret clubs, and is appropriately awed by Michelle Chaplin Regal’s community participation for Salesforce, nonprofit technologists, and women in technology. DevAdmins are a new breed of awesome, but can we please get an Atari Emulator App inside Salesforce?</itunes:summary>
+            <itunes:subtitle>Cloud TnT talks about taxes, events, and secret c…</itunes:subtitle>
+            <description>Cloud TnT talks about taxes, events, and secret clubs, and is appropriately awed by Michelle Chaplin Regal’s community participation for Salesforce, nonprofit technologists, and women in technology. DevAdmins are a new breed of awesome, but can we please get an Atari Emulator App inside Salesforce?</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/229902704-cloud-tnt-be-afraid-but-do-it-anyway.mp3" length="26178909"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000133815834-yzfz4c-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/225967875</guid>
+            <title>Episode 9: The Best Part of Dreamforce Is The People</title>
+            <pubDate>Mon, 28 Sep 2015 16:58:57 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-10-the-best-part-of-dreamforce-is-the-people</link>
+            <itunes:duration>00:51:59</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Too many shout outs to list, Joni, Tim, and Tracy talk memories, insights, and takeaways from Dreamforce ‘15.</itunes:summary>
+            <itunes:subtitle>Too many shout outs to list, Joni, Tim, and Tracy…</itunes:subtitle>
+            <description>Too many shout outs to list, Joni, Tim, and Tracy talk memories, insights, and takeaways from Dreamforce ‘15.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/225967875-cloud-tnt-episode-10-the-best-part-of-dreamforce-is-the-people.mp3" length="31189454"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000130986788-35vevx-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/225304570</guid>
+            <title>Episode 8: Careers Happen (When We’re Doing Other Things)</title>
+            <pubDate>Thu, 24 Sep 2015 01:55:40 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-8-careers-happen-when-were-doing-other-things</link>
+            <itunes:duration>00:49:36</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Heroine and Salesforce Foundation Open Source Community Manager, Judi Sohn, talks about making a Salesforce career from scratch, thinking out loud online, and being part of developing a person, an organization, a community, and a living.  Also discussed is a hearty dose of Nonprofit Starter Pack information, and Salesforce Foundation awesomeness.
+            </itunes:summary>
+            <itunes:subtitle>Heroine and Salesforce Foundation Open Source Com…</itunes:subtitle>
+            <description>Heroine and Salesforce Foundation Open Source Community Manager, Judi Sohn, talks about making a Salesforce career from scratch, thinking out loud online, and being part of developing a person, an organization, a community, and a living.  Also discussed is a hearty dose of Nonprofit Starter Pack information, and Salesforce Foundation awesomeness.
+            </description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/225304570-cloud-tnt-episode-8-careers-happen-when-were-doing-other-things.mp3" length="29759250"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000130527051-oryzm9-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/223029607</guid>
+            <title>Episode 7: Both Feet, or Nothing</title>
+            <pubDate>Wed, 09 Sep 2015 06:32:52 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-7-both-feet-or-nothing</link>
+            <itunes:duration>00:49:42</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Both Feet, or Nothing: Cloud TnT talks with Sara Deutsch about her amazing Salesforce journey, Dreamforce, belonging, women in tech, being an #AwesomeAdmin, and #DeveloperHero friendships, and following your dreams.  Also, militarized dinosaurs may, may not, or may not not (or not) have been discussed.</itunes:summary>
+            <itunes:subtitle>Both Feet, or Nothing: Cloud TnT talks with Sara …</itunes:subtitle>
+            <description>Both Feet, or Nothing: Cloud TnT talks with Sara Deutsch about her amazing Salesforce journey, Dreamforce, belonging, women in tech, being an #AwesomeAdmin, and #DeveloperHero friendships, and following your dreams.  Also, militarized dinosaurs may, may not, or may not not (or not) have been discussed.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/223029607-cloud-tnt-episode-7-both-feet-or-nothing.mp3" length="29827691"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000128964954-ohfuzb-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/220618627</guid>
+            <title>Episode 6: A Day in the Life of an AE</title>
+            <pubDate>Mon, 24 Aug 2015 06:11:03 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-6-a-day-in-the-life-of-an-ae</link>
+            <itunes:duration>00:51:25</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT gets the inside scoop on a day in the life of a Salesforce Foundation Account Executive with Michael Perez as special guest.  Lots of learning and personal growth ensued.</itunes:summary>
+            <itunes:subtitle>Cloud TnT gets the inside scoop on a day in the l…</itunes:subtitle>
+            <description>Cloud TnT gets the inside scoop on a day in the life of a Salesforce Foundation Account Executive with Michael Perez as special guest.  Lots of learning and personal growth ensued.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/220618627-cloud-tnt-episode-6-a-day-in-the-life-of-an-ae.mp3" length="30854825"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000127312708-3ssbzh-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/218711762</guid>
+            <title>Episode 5: Community is Everything</title>
+            <pubDate>Tue, 11 Aug 2015 06:02:03 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-5-community-is-everything</link>
+            <itunes:duration>00:52:04</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT talks with Alicia Schmidt and Marc Baizman from the Salesforce Foundation about building strong and successful Salesforce nonprofit community, the need for nonprofits to have excellent planning for Salesforce adoption, and a number of jokes were made along the way.  Hey Tim, what's the word for using Twitter?</itunes:summary>
+            <itunes:subtitle>Cloud TnT talks with Alicia Schmidt and Marc Baiz…</itunes:subtitle>
+            <description>Cloud TnT talks with Alicia Schmidt and Marc Baizman from the Salesforce Foundation about building strong and successful Salesforce nonprofit community, the need for nonprofits to have excellent planning for Salesforce adoption, and a number of jokes were made along the way.  Hey Tim, what's the word for using Twitter?</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/218711762-cloud-tnt-episode-5-community-is-everything.mp3" length="31246662"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000125998341-lpmrx6-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/215562419</guid>
+            <title>Episode 4: There and Back Again</title>
+            <pubDate>Mon, 20 Jul 2015 18:26:19 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-4-there-and-back-again</link>
+            <itunes:duration>00:42:33</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Kevin Bromer talks William Shatner, Al Gore, the Salesforce Foundation early vision and ideals, running the Nonprofit Starter Pack, community leadership and the Advisory Board.  Cloud TnT talks crushes and The 300.</itunes:summary>
+            <itunes:subtitle>Kevin Bromer talks William Shatner, Al Gore, the …</itunes:subtitle>
+            <description>Kevin Bromer talks William Shatner, Al Gore, the Salesforce Foundation early vision and ideals, running the Nonprofit Starter Pack, community leadership and the Advisory Board.  Cloud TnT talks crushes and The 300.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/215562419-cloud-tnt-episode-4-there-and-back-again.mp3" length="25584213"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000123821988-2zp04g-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/213766924</guid>
+            <title>Episode 3: Community, Evil Consultants, Scrappy Nonprofit Administrators, and Other Good Things</title>
+            <pubDate>Wed, 08 Jul 2015 06:36:34 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-3-community-evil-consultants-scrappy-nonprofit-administrators-and-other-good-things</link>
+            <itunes:duration>00:39:31</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT guest Vered Meir gets to the heart of being an Awesome Admin, nonprofit Salesforce community, and being less dependent on consultants.</itunes:summary>
+            <itunes:subtitle>Cloud TnT guest Vered Meir gets to the heart of b…</itunes:subtitle>
+            <description>Cloud TnT guest Vered Meir gets to the heart of being an Awesome Admin, nonprofit Salesforce community, and being less dependent on consultants.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/213766924-cloud-tnt-episode-3-community-evil-consultants-scrappy-nonprofit-administrators-and-other-good-things.mp3" length="23714516"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000122580035-23ro0s-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/211555900</guid>
+            <title>Episode 2: Strategy is Hard</title>
+            <pubDate>Tue, 23 Jun 2015 02:31:55 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/cloudtnt-episode-2-strategy-is-hard</link>
+            <itunes:duration>00:31:32</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>While Tim's on vacation, Joni, Tracy and guest Ryan Ozimek from PicNet tackle the big questions on technology, Salesforce, strategy and The Simpsons.</itunes:summary>
+            <itunes:subtitle>While Tim's on vacation, Joni, Tracy and guest Ry…</itunes:subtitle>
+            <description>While Tim's on vacation, Joni, Tracy and guest Ryan Ozimek from PicNet tackle the big questions on technology, Salesforce, strategy and The Simpsons.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/211555900-cloud-tnt-cloudtnt-episode-2-strategy-is-hard.mp3" length="18923658"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000121068803-1m0uuv-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/208440860</guid>
+            <title>Episode 1: Who We Are and Why We're Here</title>
+            <pubDate>Tue, 02 Jun 2015 14:20:09 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/cloudtnt-episode-1-who-we-are-and-why-were-here</link>
+            <itunes:duration>00:36:58</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Tim and Tracy talk why they're here, and passion abounds.</itunes:summary>
+            <itunes:subtitle>Tim and Tracy talk why they're here, and passion …</itunes:subtitle>
+            <description>Tim and Tracy talk why they're here, and passion abounds.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/208440860-cloud-tnt-cloudtnt-episode-1-who-we-are-and-why-were-here.mp3" length="22189644"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000118925332-oz2pjf-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/208440341</guid>
+            <title>Episode 0: The Nonprofit Starter Pack, A History</title>
+            <pubDate>Tue, 02 Jun 2015 14:16:00 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/cloudtnt-episode-0-the-nonprofit-starter-pack-a-history</link>
+            <itunes:duration>00:32:52</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>An interview with Tucker MacLean, VP, Sales &amp; Marketing at Exponent Partners, regarding the history and development of the Nonprofit Starter Pack.  Tucker gets a new nickname, and Tim and Tracy cover happenings in the sector.</itunes:summary>
+            <itunes:subtitle>An interview with Tucker MacLean, VP, Sales &amp; Mar…</itunes:subtitle>
+            <description>An interview with Tucker MacLean, VP, Sales &amp; Marketing at Exponent Partners, regarding the history and development of the Nonprofit Starter Pack.  Tucker gets a new nickname, and Tim and Tracy cover happenings in the sector.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/208440341-cloud-tnt-cloudtnt-episode-0-the-nonprofit-starter-pack-a-history.mp3" length="19724834"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000118924915-ukfuzc-original.jpg"/>
+        </item>
+    </channel>
+</rss><?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:155470080/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:155470080/sounds.rss?before=208440341" rel="next" type="application/rss+xml"/>
+        <title>Cloud TnT</title>
+        <link>http://www.cloudtnt.com</link>
+        <pubDate>Wed, 22 Feb 2017 01:38:44 +0000</pubDate>
+        <lastBuildDate>Wed, 22 Feb 2017 01:38:44 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>A podcast for nonprofits using Salesforce, Cloud TnT is an ongoing conversation about issues facing small but mighty organizations using Salesforce to accomplish their missions.
+            
+            Cloud TnT is a joint project of three friends from two companies: Tracy Kronzak (BrightStep Partners), Tim Lockie, and Joni Martin (Now IT Matters).  </description>
+        <itunes:subtitle>A podcast for nonprofits using Salesforce, Cloud …</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Cloud TnT</itunes:name>
+            <itunes:email>info@cloudtnt.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000178764542-vl3mon-original.jpg"/>
+        <image>
+            <url>http://i1.sndcdn.com/avatars-000178764542-vl3mon-original.jpg</url>
+            <title>Cloud TnT</title>
+            <link>http://www.cloudtnt.com</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/308927221</guid>
+            <title>When you want to be an archivist, but the webmaster leaves: Rachel Murray</title>
+            <pubDate>Wed, 22 Feb 2017 01:38:44 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/rachelmurray</link>
+            <itunes:duration>00:57:12</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>While Tracy is out on a ski day, Tim and Joni are joined by the amazing ​Rachel Murray from She Geeks Out​ who shares her journey from an aspiring archivist to leading corporate trainings to foster an inclusive culture. Don't miss the rambling conversation which includes movies, presents for adolescents, favorite wordpress plugins, B Corps, and organizational trainings. Plus a shout out cameo from our favorite podcast editor!</itunes:summary>
+            <itunes:subtitle>While Tracy is out on a ski day, Tim and Joni are…</itunes:subtitle>
+            <description>While Tracy is out on a ski day, Tim and Joni are joined by the amazing ​Rachel Murray from She Geeks Out​ who shares her journey from an aspiring archivist to leading corporate trainings to foster an inclusive culture. Don't miss the rambling conversation which includes movies, presents for adolescents, favorite wordpress plugins, B Corps, and organizational trainings. Plus a shout out cameo from our favorite podcast editor!</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/308927221-cloud-tnt-rachelmurray.mp3" length="22069144"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000208961749-bhx1ul-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/299716242</guid>
+            <title>Something I’d Never Have Otherwise Discovered: Anne Young</title>
+            <pubDate>Tue, 27 Dec 2016 01:06:36 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/something-id-never-have-otherwise-discovered-anne-young</link>
+            <itunes:duration>01:06:42</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>In our final episode of 2016, we talk about upcoming events and changes in Salesforcelandia in 2017, including conferences, certifications, Trailhead, and our upcoming show schedule.  We spend amazing quality time with Salesforce.org Community Manager, Anne Young, talking about women in technology, running the Power of Us Hub, keeping the Salesforce community playful, the technology and tools behind keeping the Salesforce community alive.  Star Wars, Mean Girls, and dinosaurs also make cameos.</itunes:summary>
+            <itunes:subtitle>In our final episode of 2016, we talk about upcom…</itunes:subtitle>
+            <description>In our final episode of 2016, we talk about upcoming events and changes in Salesforcelandia in 2017, including conferences, certifications, Trailhead, and our upcoming show schedule.  We spend amazing quality time with Salesforce.org Community Manager, Anne Young, talking about women in technology, running the Power of Us Hub, keeping the Salesforce community playful, the technology and tools behind keeping the Salesforce community alive.  Star Wars, Mean Girls, and dinosaurs also make cameos.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/299716242-cloud-tnt-something-id-never-have-otherwise-discovered-anne-young.mp3" length="40026154"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000200199010-73hyeh-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/296412630</guid>
+            <title>Concern for Tomorrow: Marisa Lopez</title>
+            <pubDate>Mon, 05 Dec 2016 22:11:53 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/concern-for-tomorrow-marisa-lopez</link>
+            <itunes:duration>01:06:49</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Our take on the election from last month, then Tim ditches us, and Joni and Tracy have a discussion of environmental activism and the preservation of the oceans in the context of Salesforcelandia.  We cover how ocean preservation intersects with existing and new initiatives, ocean protection, and growing up in our ecosystem as women in tech.</itunes:summary>
+            <itunes:subtitle>Our take on the election from last month, then Ti…</itunes:subtitle>
+            <description>Our take on the election from last month, then Tim ditches us, and Joni and Tracy have a discussion of environmental activism and the preservation of the oceans in the context of Salesforcelandia.  We cover how ocean preservation intersects with existing and new initiatives, ocean protection, and growing up in our ecosystem as women in tech.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/296412630-cloud-tnt-concern-for-tomorrow-marisa-lopez.mp3" length="80188636"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000197032282-sh4431-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/293048779</guid>
+            <title>Being a Changemaker: Shonnah Hughes</title>
+            <pubDate>Mon, 14 Nov 2016 22:33:39 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/being-a-changemaker-shonnah-hughes</link>
+            <itunes:duration>00:56:01</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT talks cherry pie, guinea pigs, NPSP Days, and Tim’s kids.  And, much more substantively, race, gender, justice, the difference between being an ally and accomplice, and the world of technology with recent MVP Shonnah Hughes, including her Trailhead for All initiative.  This one got out a bit late due to the recent election, but is perhaps now even that much more relevant.  One of our recent favorite discussions, and something we hope has some wisdom and comfort in it right now.</itunes:summary>
+            <itunes:subtitle>Cloud TnT talks cherry pie, guinea pigs, NPSP Day…</itunes:subtitle>
+            <description>Cloud TnT talks cherry pie, guinea pigs, NPSP Days, and Tim’s kids.  And, much more substantively, race, gender, justice, the difference between being an ally and accomplice, and the world of technology with recent MVP Shonnah Hughes, including her Trailhead for All initiative.  This one got out a bit late due to the recent election, but is perhaps now even that much more relevant.  One of our recent favorite discussions, and something we hope has some wisdom and comfort in it right now.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/293048779-cloud-tnt-being-a-changemaker-shonnah-hughes.mp3" length="33609437"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000193577494-kdj2xt-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/289981303</guid>
+            <title>That Much Better for Someone Else: Nick Lindberg</title>
+            <pubDate>Wed, 26 Oct 2016 00:07:41 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/that-much-better-for-someone-else-nick-lindberg</link>
+            <itunes:duration>00:48:33</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>A more humorous review of Dreamforce 16 recorded BEFORE Dreamforce – yeah, we’re that good. And we also talk to MVP Nick Lindberg about service, friendship, and the Good Old Days of Salesforcelandia.  A heartwarming story of family and community ensues.</itunes:summary>
+            <itunes:subtitle>A more humorous review of Dreamforce 16 recorded …</itunes:subtitle>
+            <description>A more humorous review of Dreamforce 16 recorded BEFORE Dreamforce – yeah, we’re that good. And we also talk to MVP Nick Lindberg about service, friendship, and the Good Old Days of Salesforcelandia.  A heartwarming story of family and community ensues.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/289981303-cloud-tnt-that-much-better-for-someone-else-nick-lindberg.mp3" length="29131526"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000190643668-hn4e2k-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/287723978</guid>
+            <title>Dreamforce 2016 and All The Things</title>
+            <pubDate>Fri, 14 Oct 2016 20:20:42 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/dreamforce-2016-and-all-the-things</link>
+            <itunes:duration>01:01:03</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>One week after the week of Dreamforce 2016 ends, Cloud TnT reflects on our experiences and what's next.  Lots of shout-outs to our friends and family, with thanks to our listeners and sponsors.</itunes:summary>
+            <itunes:subtitle>One week after the week of Dreamforce 2016 ends, …</itunes:subtitle>
+            <description>One week after the week of Dreamforce 2016 ends, Cloud TnT reflects on our experiences and what's next.  Lots of shout-outs to our friends and family, with thanks to our listeners and sponsors.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/287723978-cloud-tnt-dreamforce-2016-and-all-the-things.mp3" length="36635460"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000188353525-d2kho2-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/284767228</guid>
+            <title>Bringing Us Together: Bonny Hinners</title>
+            <pubDate>Mon, 26 Sep 2016 18:32:31 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/bringing-us-together-bonny-hinners</link>
+            <itunes:duration>00:41:41</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>A lively discussion with #AwesomeAdmin, User Group leader, and MVP Bonny Hinners all about how important the customer is to Salesforce, and the changing role of the Salesforce community.  A great segue to Dreamforce and the newly-announced Nonprofit Success Pack, covering the Dreamforce keynote previews and the Boston NPSP Sprint.  We’re super excited to be heading to Dreamforce this year!</itunes:summary>
+            <itunes:subtitle>A lively discussion with #AwesomeAdmin, User Grou…</itunes:subtitle>
+            <description>A lively discussion with #AwesomeAdmin, User Group leader, and MVP Bonny Hinners all about how important the customer is to Salesforce, and the changing role of the Salesforce community.  A great segue to Dreamforce and the newly-announced Nonprofit Success Pack, covering the Dreamforce keynote previews and the Boston NPSP Sprint.  We’re super excited to be heading to Dreamforce this year!</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/284767228-cloud-tnt-bringing-us-together-bonny-hinners.mp3" length="25013059"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000185331773-afrykr-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/282499101</guid>
+            <title>The Next Level: Adam Kramer</title>
+            <pubDate>Mon, 12 Sep 2016 02:39:04 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/the-next-level-adam-kramer</link>
+            <itunes:duration>00:47:56</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>While Tim’s away, Cloud TnT is helmed by Joni and Tracy with a fantastic interview with #AwesomeAdmin and consultant extraordinaire, Don Draper.  We mean, Adam Kramer.  Topics include NPSP evangelism, the NPSP Advisory Board, and building on the NPSP as a technical and community tool, and taking it all to the next level.  Does the NPSP have a new mascot? It just might…</itunes:summary>
+            <itunes:subtitle>While Tim’s away, Cloud TnT is helmed by Joni and…</itunes:subtitle>
+            <description>While Tim’s away, Cloud TnT is helmed by Joni and Tracy with a fantastic interview with #AwesomeAdmin and consultant extraordinaire, Don Draper.  We mean, Adam Kramer.  Topics include NPSP evangelism, the NPSP Advisory Board, and building on the NPSP as a technical and community tool, and taking it all to the next level.  Does the NPSP have a new mascot? It just might…</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/282499101-cloud-tnt-the-next-level-adam-kramer.mp3" length="28768683"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000182953105-uydl8b-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/280991833</guid>
+            <title>Cool Stuff and Opinions About Things</title>
+            <pubDate>Fri, 02 Sep 2016 00:13:21 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/cool-stuff-and-opinions-about-things</link>
+            <itunes:duration>00:39:37</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>In the final episode of our summer break, we talk about stuff we think is cool. And things. Related to Salesforce. And nonprofits. We promise. A wide-ranging discussion that seems to mostly cover Trailhead, Open Sourcery, the Nonprofit Starter Pack Advisory Board, worst case scenarios, and more. This is what happens when we don’t have a guest, folks. Enjoy!</itunes:summary>
+            <itunes:subtitle>In the final episode of our summer break, we talk…</itunes:subtitle>
+            <description>In the final episode of our summer break, we talk about stuff we think is cool. And things. Related to Salesforce. And nonprofits. We promise. A wide-ranging discussion that seems to mostly cover Trailhead, Open Sourcery, the Nonprofit Starter Pack Advisory Board, worst case scenarios, and more. This is what happens when we don’t have a guest, folks. Enjoy!</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/280991833-cloud-tnt-cool-stuff-and-opinions-about-things.mp3" length="23769886"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000180099463-e6h2i0-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/278657842</guid>
+            <title>That Events Episode</title>
+            <pubDate>Wed, 17 Aug 2016 15:00:34 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/that-events-episode</link>
+            <itunes:duration>00:58:19</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Summer fun with Joni, Tim, and Tracy talking about all the recent and upcoming events in Salesforcelandia: from the MVP Lightning Summit and Midwest Dreamin' in Chicago, to Sprints, and straight on through to Dreamforce.  And our usual tangents...</itunes:summary>
+            <itunes:subtitle>Summer fun with Joni, Tim, and Tracy talking abou…</itunes:subtitle>
+            <description>Summer fun with Joni, Tim, and Tracy talking about all the recent and upcoming events in Salesforcelandia: from the MVP Lightning Summit and Midwest Dreamin' in Chicago, to Sprints, and straight on through to Dreamforce.  And our usual tangents...</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/278657842-cloud-tnt-that-events-episode.mp3" length="34988693"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000177144594-i4jjo9-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/277426210</guid>
+            <title>Everything Changes: Joni, Tim, Tracy</title>
+            <pubDate>Mon, 08 Aug 2016 23:39:44 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/everything-changes-joni-tim-tracy</link>
+            <itunes:duration>00:43:40</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Tim, Joni, and Tracy talk about the massive changes each are undergoing, including departing Now It Matters and BrightStep Partners, and their ongoing commitment to the community and Cloud TnT.  There’s a lot of love and appreciation in this recording, as well as talk about how doing the podcast together has changed each other.  Tracy cries, Tim swears he isn’t, and Joni reminds everyone why we’re grateful for our world.  Everyone gets #TheFeels, and we set the stage for a short summer break and return to recording together.</itunes:summary>
+            <itunes:subtitle>Tim, Joni, and Tracy talk about the massive chang…</itunes:subtitle>
+            <description>Tim, Joni, and Tracy talk about the massive changes each are undergoing, including departing Now It Matters and BrightStep Partners, and their ongoing commitment to the community and Cloud TnT.  There’s a lot of love and appreciation in this recording, as well as talk about how doing the podcast together has changed each other.  Tracy cries, Tim swears he isn’t, and Joni reminds everyone why we’re grateful for our world.  Everyone gets #TheFeels, and we set the stage for a short summer break and return to recording together.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/277426210-cloud-tnt-everything-changes-joni-tim-tracy.mp3" length="26199796"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000175456435-inwfdq-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/275313501</guid>
+            <title>A Screwdriver and Lightning Boat: Steve Molis</title>
+            <pubDate>Mon, 25 Jul 2016 18:36:43 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/a-screwdriver-and-lightning-boat-steve-molis</link>
+            <itunes:duration>00:56:54</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>A Very Special Cloud TnT with Salesforce superstar Steve Molis.  Cloud TnT covers all kinds of ground, from answering questions and being of genuine service, to equality for all.  Tracy fangirls out, and then cries (again).  SteveMo chokes up. This is a golden recording, and there are no words for how much fun we had, just listen…</itunes:summary>
+            <itunes:subtitle>A Very Special Cloud TnT with Salesforce supersta…</itunes:subtitle>
+            <description>A Very Special Cloud TnT with Salesforce superstar Steve Molis.  Cloud TnT covers all kinds of ground, from answering questions and being of genuine service, to equality for all.  Tracy fangirls out, and then cries (again).  SteveMo chokes up. This is a golden recording, and there are no words for how much fun we had, just listen…</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/275313501-cloud-tnt-a-screwdriver-and-lightning-boat-steve-molis.mp3" length="34140237"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000173248576-d3lx46-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/273429151</guid>
+            <title>You Really Have to Solve the Problem: Chris Robinson</title>
+            <pubDate>Wed, 13 Jul 2016 04:19:06 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/you-really-have-to-solve-the-problem-chris-robinson</link>
+            <itunes:duration>00:43:38</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>While Tracy is away, Joni and Tim continue Cloud TnT’s #AwesomeAdmin series.  Mothers Against Drunk Driving uses Salesforce to help deliver its nationwide services, and Chris talks about his journey implementing, his organization’s work, creating buy-in, and how being a Salesforce administrator fits in to all of it.  </itunes:summary>
+            <itunes:subtitle>While Tracy is away, Joni and Tim continue Cloud …</itunes:subtitle>
+            <description>While Tracy is away, Joni and Tim continue Cloud TnT’s #AwesomeAdmin series.  Mothers Against Drunk Driving uses Salesforce to help deliver its nationwide services, and Chris talks about his journey implementing, his organization’s work, creating buy-in, and how being a Salesforce administrator fits in to all of it.  </description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/273429151-cloud-tnt-you-really-have-to-solve-the-problem-chris-robinson.mp3" length="26179943"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000171238530-t9mnwz-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/271070090</guid>
+            <title>Thankfully, It’s Not That Simple: Nicholas Zinser</title>
+            <pubDate>Mon, 27 Jun 2016 14:34:23 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/thankfully-its-not-that-simple-nicholas-zinser</link>
+            <itunes:duration>00:50:25</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Joni and Tracy take the helm while Tim is away for another foray into the world of higher education... Eventually.  In the meantime, we talk about space, the upcoming Dreamforce band and speakers, and other topics and hijinks.  We cover more about how Salesforce works for higher education institutions, the HEDA and Unity applications, integrations and instance proliferation, and change management in large-scale enterprises to help Salesforce move them forward. The episode in which The Woz touches all of Tracy’s special places.</itunes:summary>
+            <itunes:subtitle>Joni and Tracy take the helm while Tim is away fo…</itunes:subtitle>
+            <description>Joni and Tracy take the helm while Tim is away for another foray into the world of higher education... Eventually.  In the meantime, we talk about space, the upcoming Dreamforce band and speakers, and other topics and hijinks.  We cover more about how Salesforce works for higher education institutions, the HEDA and Unity applications, integrations and instance proliferation, and change management in large-scale enterprises to help Salesforce move them forward. The episode in which The Woz touches all of Tracy’s special places.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/271070090-cloud-tnt-thankfully-its-not-that-simple-nicholas-zinser.mp3" length="60501190"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000169154205-bueiet-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/269591079</guid>
+            <title>A Thousand Ways to Do Things: Kari Bryan</title>
+            <pubDate>Fri, 17 Jun 2016 13:32:11 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/a-thousand-ways-to-do-things-kari-bryan</link>
+            <itunes:duration>00:48:36</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT has its oddest start yet, and talks goings-on in the nonprofit world with a #BundleofFundle.  The crew takes its first foray into higher education, talking about how Salesforce is being used by colleges and universities to break down data silos in these institutions.  Kari educates us about the politics, needs, and innovation happening with Salesforce and HEDA, Unity, and other ways of using Salesforce for these schools. Cloud TnT gets its second sponsor, and - Pssst! Kari is Joni’s fiancée.</itunes:summary>
+            <itunes:subtitle>Cloud TnT has its oddest start yet, and talks goi…</itunes:subtitle>
+            <description>Cloud TnT has its oddest start yet, and talks goings-on in the nonprofit world with a #BundleofFundle.  The crew takes its first foray into higher education, talking about how Salesforce is being used by colleges and universities to break down data silos in these institutions.  Kari educates us about the politics, needs, and innovation happening with Salesforce and HEDA, Unity, and other ways of using Salesforce for these schools. Cloud TnT gets its second sponsor, and - Pssst! Kari is Joni’s fiancée.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/269591079-cloud-tnt-a-thousand-ways-to-do-things-kari-bryan.mp3" length="29165478"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000167794983-rv4hfr-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/267793712</guid>
+            <title>Technology is a Lever to Engagement: David Manelski</title>
+            <pubDate>Mon, 06 Jun 2016 12:31:32 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/technology-is-a-lever-to-engagement-david-manelski</link>
+            <itunes:duration>00:47:33</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT talks enterprise system teams, running the internal systems behind the Nonprofit Starter Pack, growing and supporting staff in their work, and making Salesforce.org a better place one team at a time.  By focusing on why organizations work, and knowing how they work as it relates to technology, they can deliver their mission with greater strength. Tracy gives epoxy to all the Cloud TnT listeners and sponsors, Joni is working on picking her “Very Girlforce” wedding.</itunes:summary>
+            <itunes:subtitle>Cloud TnT talks enterprise system teams, running …</itunes:subtitle>
+            <description>Cloud TnT talks enterprise system teams, running the internal systems behind the Nonprofit Starter Pack, growing and supporting staff in their work, and making Salesforce.org a better place one team at a time.  By focusing on why organizations work, and knowing how they work as it relates to technology, they can deliver their mission with greater strength. Tracy gives epoxy to all the Cloud TnT listeners and sponsors, Joni is working on picking her “Very Girlforce” wedding.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/267793712-cloud-tnt-technology-is-a-lever-to-engagement-david-manelski.mp3" length="28535143"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000166183718-jgfase-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/266836378</guid>
+            <title>What is the problem we’re trying to solve? Mary Pustejovsky</title>
+            <pubDate>Tue, 31 May 2016 21:16:06 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/what-is-the-problem-were-trying-to-solve-mary-pustejovsky</link>
+            <itunes:duration>00:50:59</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Joni and Tracy play while Tim’s away and talk about creating the core features of the Nonprofit Starter Pack, scalping hotel rooms and AirBnB spots for Dreamforce, mentorship and its impact on our lives, thinking big picture, and what the heck a Technical Product Manager actually does. Tracy talks NA14, and CloudTnT gets it’s first official sponsor!</itunes:summary>
+            <itunes:subtitle>Joni and Tracy play while Tim’s away and talk abo…</itunes:subtitle>
+            <description>Joni and Tracy play while Tim’s away and talk about creating the core features of the Nonprofit Starter Pack, scalping hotel rooms and AirBnB spots for Dreamforce, mentorship and its impact on our lives, thinking big picture, and what the heck a Technical Product Manager actually does. Tracy talks NA14, and CloudTnT gets it’s first official sponsor!</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/266836378-cloud-tnt-what-is-the-problem-were-trying-to-solve-mary-pustejovsky.mp3" length="30597512"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000165296309-alb0z0-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/262408127</guid>
+            <title>An Authentic Life As Possible: Ashima Saigal</title>
+            <pubDate>Wed, 04 May 2016 04:22:24 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/an-authentic-life-as-possible-ashima-saigal</link>
+            <itunes:duration>00:48:45</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>While Joni’s away, Tim and Tracy talk incredibly personal with Salesforce MVP Ashima Saigal about business, mindfulness, spirituality, racism, and women in technology.  Tracy cries, Tim learns, and all three of them walk away from a conversation about hard topics with new levels of respect, joy, and awe for the world we inhabit.  This was one of our all-time favorite discussions to-date, and we are profoundly grateful for being able to share it.</itunes:summary>
+            <itunes:subtitle>While Joni’s away, Tim and Tracy talk incredibly …</itunes:subtitle>
+            <description>While Joni’s away, Tim and Tracy talk incredibly personal with Salesforce MVP Ashima Saigal about business, mindfulness, spirituality, racism, and women in technology.  Tracy cries, Tim learns, and all three of them walk away from a conversation about hard topics with new levels of respect, joy, and awe for the world we inhabit.  This was one of our all-time favorite discussions to-date, and we are profoundly grateful for being able to share it.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/262408127-cloud-tnt-an-authentic-life-as-possible-ashima-saigal.mp3" length="46698230"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000161277540-89eylz-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/260014238</guid>
+            <title>Arts, Technology and the Unexpected Admin: Caroline Renard</title>
+            <pubDate>Wed, 20 Apr 2016 14:06:29 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/arts-technology-and-the-unexpected-admin-caroline-renard</link>
+            <itunes:duration>00:52:12</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT is reminded that we’re still the colonies, that everything sounds better in a British accent, and theater and the arts are amazing forms of community service. Aptitude gets you a long way, and helps a person to understand how to unpick data, get over data silos, and use cool and amazing tools.  But, it’s how you use it that matters.</itunes:summary>
+            <itunes:subtitle>Cloud TnT is reminded that we’re still the coloni…</itunes:subtitle>
+            <description>Cloud TnT is reminded that we’re still the colonies, that everything sounds better in a British accent, and theater and the arts are amazing forms of community service. Aptitude gets you a long way, and helps a person to understand how to unpick data, get over data silos, and use cool and amazing tools.  But, it’s how you use it that matters.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/260014238-cloud-tnt-arts-technology-and-the-unexpected-admin-caroline-renard.mp3" length="31322934"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000159056122-zs49ux-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/253692461</guid>
+            <title>One Database at A Time: Dave Habib</title>
+            <pubDate>Sun, 20 Mar 2016 22:56:19 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/one-database-at-a-time-dave-habib</link>
+            <itunes:duration>00:41:54</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Just in time for the March 2016 San Francisco Nonprofit Starter Pack Sprint, product manager and developer extraordinaire, Dave Habib talks about how to build a product and how his contributions to the Salesforce for nonprofits community, Volunteers for Salesforce and Auctions for Salesforce, were developed.  A pinnacle story of community contribution ensues, along with perhaps one of the best celebrity impressions we’ve ever heard.  Joni tells everyone more about the Girlforce trip to Ethiopia, with a shout out to the work of previous Cloud TnT guest, Ben Beisswenger.</itunes:summary>
+            <itunes:subtitle>Just in time for the March 2016 San Francisco Non…</itunes:subtitle>
+            <description>Just in time for the March 2016 San Francisco Nonprofit Starter Pack Sprint, product manager and developer extraordinaire, Dave Habib talks about how to build a product and how his contributions to the Salesforce for nonprofits community, Volunteers for Salesforce and Auctions for Salesforce, were developed.  A pinnacle story of community contribution ensues, along with perhaps one of the best celebrity impressions we’ve ever heard.  Joni tells everyone more about the Girlforce trip to Ethiopia, with a shout out to the work of previous Cloud TnT guest, Ben Beisswenger.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/253692461-cloud-tnt-one-database-at-a-time-dave-habib.mp3" length="25148371"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000152672311-wlvuyu-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/251773584</guid>
+            <title>Seeing Through More Than One Mission: Christian Carter</title>
+            <pubDate>Mon, 14 Mar 2016 06:21:44 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/seeing-through-more-than-one-mission-christian-carter</link>
+            <itunes:duration>00:52:30</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT goes on an adventure with #AwesomeAdmin and new MVP Christian Carter.  We talk about dating advice, learning enough to be dangerous, being community allies, and the fun and joy of Slack channels in the NPO world.  Also, Cloud TnT begins what will assuredly be a long, controversial, and wide-ranging discussion of Open Sourcery in the world of nonprofit Salesforce users.</itunes:summary>
+            <itunes:subtitle>Cloud TnT goes on an adventure with #AwesomeAdmin…</itunes:subtitle>
+            <description>Cloud TnT goes on an adventure with #AwesomeAdmin and new MVP Christian Carter.  We talk about dating advice, learning enough to be dangerous, being community allies, and the fun and joy of Slack channels in the NPO world.  Also, Cloud TnT begins what will assuredly be a long, controversial, and wide-ranging discussion of Open Sourcery in the world of nonprofit Salesforce users.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/251773584-cloud-tnt-seeing-through-more-than-one-mission-christian-carter.mp3" length="31502917"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000150836463-ggbsb4-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/248960213</guid>
+            <title>A Family Is Good for The World: Ben Beisswenger</title>
+            <pubDate>Fri, 26 Feb 2016 04:27:29 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/a-family-is-good-for-the-world-ben-beisswenger</link>
+            <itunes:duration>00:49:45</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>This week, on a Very Special Cloud TnT, we talk about family values... (just kidding!), but we do cover families of choice, and the value of families.  Another international journeying community member talks about his experiences and learning, and the role that being present and building trust and vulnerability can play.  Cloud TnT is fascinated by Matt Damon, economic agency, and Greek words.  Shout-outs to Girlforce and its amazing trip to Ethiopia happening this week, selling Salesforce as an Account Executive, and when trainwrecks happen.</itunes:summary>
+            <itunes:subtitle>This week, on a Very Special Cloud TnT, we talk a…</itunes:subtitle>
+            <description>This week, on a Very Special Cloud TnT, we talk about family values... (just kidding!), but we do cover families of choice, and the value of families.  Another international journeying community member talks about his experiences and learning, and the role that being present and building trust and vulnerability can play.  Cloud TnT is fascinated by Matt Damon, economic agency, and Greek words.  Shout-outs to Girlforce and its amazing trip to Ethiopia happening this week, selling Salesforce as an Account Executive, and when trainwrecks happen.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/248960213-cloud-tnt-a-family-is-good-for-the-world-ben-beisswenger.mp3" length="29852240"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000148667769-grbee5-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/245982581</guid>
+            <title>Listening is The Key: Trish Perkins</title>
+            <pubDate>Mon, 08 Feb 2016 04:46:30 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/listening-is-the-key-trish-perkins</link>
+            <itunes:duration>00:38:20</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Listening to others, knowing people and culture, and applying humility and willingness to fail to both, #AwesomeAdmin Trish Perkins shares her wisdom on international travel and its relevance to Salesforce.  People are more important than a “to-do” list anywhere we go.  Cloud TnT is stunned into silence by warmed-up buckets, and instead talks about not crying, current events, and new Trailhead awesomeness.</itunes:summary>
+            <itunes:subtitle>Listening to others, knowing people and culture, …</itunes:subtitle>
+            <description>Listening to others, knowing people and culture, and applying humility and willingness to fail to both, #AwesomeAdmin Trish Perkins shares her wisdom on international travel and its relevance to Salesforce.  People are more important than a “to-do” list anywhere we go.  Cloud TnT is stunned into silence by warmed-up buckets, and instead talks about not crying, current events, and new Trailhead awesomeness.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/245982581-cloud-tnt-listening-is-the-key-trish-perkins.mp3" length="23003719"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000146310790-ddu9ez-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/244843187</guid>
+            <title>Something More to Be Created: Amanda Byrne</title>
+            <pubDate>Mon, 01 Feb 2016 06:19:07 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/something-more-to-be-created-amanda-byrne</link>
+            <itunes:duration>00:48:21</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT kicks off its #AwesomeAdmin series with Amanda Byrne, who talks about her own journey becoming an administrator, things of which to be mindful in an administrator role, and sharing our stories.  Insomnia, community, and shout outs to #TahoeDreamin</itunes:summary>
+            <itunes:subtitle>Cloud TnT kicks off its #AwesomeAdmin series with…</itunes:subtitle>
+            <description>Cloud TnT kicks off its #AwesomeAdmin series with Amanda Byrne, who talks about her own journey becoming an administrator, things of which to be mindful in an administrator role, and sharing our stories.  Insomnia, community, and shout outs to #TahoeDreamin</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/244843187-cloud-tnt-something-more-to-be-created-amanda-byrne.mp3" length="29010313"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000145406070-ueijen-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/241726517</guid>
+            <title>Vulnerability, The Universe, and Everything Changes: Welcome 2016!</title>
+            <pubDate>Wed, 13 Jan 2016 06:29:53 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/vulnerability-the-universe-and-everything-changes-welcome-2016</link>
+            <itunes:duration>00:53:50</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Tim, Tracy, and Joni ring in the new year with updates on important dates and goings on.  An in-depth talk about Girlforce and how men can be allies, goings-on for the Salesforce platform and nonprofit ecosystem, and changes happening at Salesforce.org and what Salesforce.org means and represents in 2016.  Tracy chokes up and gets teary, Tim talks economics, and Joni steals the show.</itunes:summary>
+            <itunes:subtitle>Tim, Tracy, and Joni ring in the new year with up…</itunes:subtitle>
+            <description>Tim, Tracy, and Joni ring in the new year with updates on important dates and goings on.  An in-depth talk about Girlforce and how men can be allies, goings-on for the Salesforce platform and nonprofit ecosystem, and changes happening at Salesforce.org and what Salesforce.org means and represents in 2016.  Tracy chokes up and gets teary, Tim talks economics, and Joni steals the show.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/241726517-cloud-tnt-vulnerability-the-universe-and-everything-changes-welcome-2016.mp3" length="38760418"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000142950660-h0r8oq-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/237784536</guid>
+            <title>Here it is! Good Luck! Ha-Ha! Chris Duarte</title>
+            <pubDate>Wed, 16 Dec 2015 06:40:30 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/here-it-is-good-luck-ha-ha-chris-duarte</link>
+            <itunes:duration>00:48:57</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT talks with Chris Duarte, Managing Editor of Salesforce Trailhead.  This is a great path to follow, for all listeners to learn about the behind-the-scenes at one of the breakout tools of 2015.  Our final 2015 podcast, Cloud TnT is grateful, dinosaurs, twits, shock-collars and all.</itunes:summary>
+            <itunes:subtitle>Cloud TnT talks with Chris Duarte, Managing Edito…</itunes:subtitle>
+            <description>Cloud TnT talks with Chris Duarte, Managing Editor of Salesforce Trailhead.  This is a great path to follow, for all listeners to learn about the behind-the-scenes at one of the breakout tools of 2015.  Our final 2015 podcast, Cloud TnT is grateful, dinosaurs, twits, shock-collars and all.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/237784536-cloud-tnt-here-it-is-good-luck-ha-ha-chris-duarte.mp3" length="35250821"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000139755420-79ue32-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/234307471</guid>
+            <title>We Are Connected: Amy Sample Ward</title>
+            <pubDate>Mon, 23 Nov 2015 07:11:11 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/we-are-connected-amy-sample-ward</link>
+            <itunes:duration>00:46:39</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>NTEN Director Amy Sample Ward talks on the value of connection and community, its application to nonprofits implementing technology of all kinds, and why having a community invested in itself is the best support for technologists.</itunes:summary>
+            <itunes:subtitle>NTEN Director Amy Sample Ward talks on the value …</itunes:subtitle>
+            <description>NTEN Director Amy Sample Ward talks on the value of connection and community, its application to nonprofits implementing technology of all kinds, and why having a community invested in itself is the best support for technologists.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/234307471-cloud-tnt-we-are-connected-amy-sample-ward.mp3" length="55948699"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000137066151-4mpwnp-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/231322323</guid>
+            <title>If One Person Changes, It Was Worth It: Mike Gerholdt</title>
+            <pubDate>Tue, 03 Nov 2015 06:24:07 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/if-one-person-changes-it-was-worth-it-mike-gerholdt</link>
+            <itunes:duration>00:46:30</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT and Mike Gerholdt chat about how community is built, and the means by how people become empowered.  Building community is taking information that is being put out there, and helping others make the world a better place with it.  You can curate content, or connect people, and at the end of the day there’s a ton of ways to contribute. We also talked about System Administrators and bus drivers.</itunes:summary>
+            <itunes:subtitle>Cloud TnT and Mike Gerholdt chat about how commun…</itunes:subtitle>
+            <description>Cloud TnT and Mike Gerholdt chat about how community is built, and the means by how people become empowered.  Building community is taking information that is being put out there, and helping others make the world a better place with it.  You can curate content, or connect people, and at the end of the day there’s a ton of ways to contribute. We also talked about System Administrators and bus drivers.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/231322323-cloud-tnt-if-one-person-changes-it-was-worth-it-mike-gerholdt.mp3" length="59950513"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000134867089-w7zc97-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/229902704</guid>
+            <title>Be Afraid, But Do It Anyway</title>
+            <pubDate>Sat, 24 Oct 2015 18:29:45 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/be-afraid-but-do-it-anyway</link>
+            <itunes:duration>00:43:37</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT talks about taxes, events, and secret clubs, and is appropriately awed by Michelle Chaplin Regal’s community participation for Salesforce, nonprofit technologists, and women in technology. DevAdmins are a new breed of awesome, but can we please get an Atari Emulator App inside Salesforce?</itunes:summary>
+            <itunes:subtitle>Cloud TnT talks about taxes, events, and secret c…</itunes:subtitle>
+            <description>Cloud TnT talks about taxes, events, and secret clubs, and is appropriately awed by Michelle Chaplin Regal’s community participation for Salesforce, nonprofit technologists, and women in technology. DevAdmins are a new breed of awesome, but can we please get an Atari Emulator App inside Salesforce?</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/229902704-cloud-tnt-be-afraid-but-do-it-anyway.mp3" length="26178909"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000133815834-yzfz4c-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/225967875</guid>
+            <title>Episode 9: The Best Part of Dreamforce Is The People</title>
+            <pubDate>Mon, 28 Sep 2015 16:58:57 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-10-the-best-part-of-dreamforce-is-the-people</link>
+            <itunes:duration>00:51:59</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Too many shout outs to list, Joni, Tim, and Tracy talk memories, insights, and takeaways from Dreamforce ‘15.</itunes:summary>
+            <itunes:subtitle>Too many shout outs to list, Joni, Tim, and Tracy…</itunes:subtitle>
+            <description>Too many shout outs to list, Joni, Tim, and Tracy talk memories, insights, and takeaways from Dreamforce ‘15.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/225967875-cloud-tnt-episode-10-the-best-part-of-dreamforce-is-the-people.mp3" length="31189454"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000130986788-35vevx-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/225304570</guid>
+            <title>Episode 8: Careers Happen (When We’re Doing Other Things)</title>
+            <pubDate>Thu, 24 Sep 2015 01:55:40 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-8-careers-happen-when-were-doing-other-things</link>
+            <itunes:duration>00:49:36</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Heroine and Salesforce Foundation Open Source Community Manager, Judi Sohn, talks about making a Salesforce career from scratch, thinking out loud online, and being part of developing a person, an organization, a community, and a living.  Also discussed is a hearty dose of Nonprofit Starter Pack information, and Salesforce Foundation awesomeness.
+            </itunes:summary>
+            <itunes:subtitle>Heroine and Salesforce Foundation Open Source Com…</itunes:subtitle>
+            <description>Heroine and Salesforce Foundation Open Source Community Manager, Judi Sohn, talks about making a Salesforce career from scratch, thinking out loud online, and being part of developing a person, an organization, a community, and a living.  Also discussed is a hearty dose of Nonprofit Starter Pack information, and Salesforce Foundation awesomeness.
+            </description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/225304570-cloud-tnt-episode-8-careers-happen-when-were-doing-other-things.mp3" length="29759250"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000130527051-oryzm9-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/223029607</guid>
+            <title>Episode 7: Both Feet, or Nothing</title>
+            <pubDate>Wed, 09 Sep 2015 06:32:52 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-7-both-feet-or-nothing</link>
+            <itunes:duration>00:49:42</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Both Feet, or Nothing: Cloud TnT talks with Sara Deutsch about her amazing Salesforce journey, Dreamforce, belonging, women in tech, being an #AwesomeAdmin, and #DeveloperHero friendships, and following your dreams.  Also, militarized dinosaurs may, may not, or may not not (or not) have been discussed.</itunes:summary>
+            <itunes:subtitle>Both Feet, or Nothing: Cloud TnT talks with Sara …</itunes:subtitle>
+            <description>Both Feet, or Nothing: Cloud TnT talks with Sara Deutsch about her amazing Salesforce journey, Dreamforce, belonging, women in tech, being an #AwesomeAdmin, and #DeveloperHero friendships, and following your dreams.  Also, militarized dinosaurs may, may not, or may not not (or not) have been discussed.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/223029607-cloud-tnt-episode-7-both-feet-or-nothing.mp3" length="29827691"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000128964954-ohfuzb-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/220618627</guid>
+            <title>Episode 6: A Day in the Life of an AE</title>
+            <pubDate>Mon, 24 Aug 2015 06:11:03 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-6-a-day-in-the-life-of-an-ae</link>
+            <itunes:duration>00:51:25</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT gets the inside scoop on a day in the life of a Salesforce Foundation Account Executive with Michael Perez as special guest.  Lots of learning and personal growth ensued.</itunes:summary>
+            <itunes:subtitle>Cloud TnT gets the inside scoop on a day in the l…</itunes:subtitle>
+            <description>Cloud TnT gets the inside scoop on a day in the life of a Salesforce Foundation Account Executive with Michael Perez as special guest.  Lots of learning and personal growth ensued.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/220618627-cloud-tnt-episode-6-a-day-in-the-life-of-an-ae.mp3" length="30854825"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000127312708-3ssbzh-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/218711762</guid>
+            <title>Episode 5: Community is Everything</title>
+            <pubDate>Tue, 11 Aug 2015 06:02:03 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-5-community-is-everything</link>
+            <itunes:duration>00:52:04</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT talks with Alicia Schmidt and Marc Baizman from the Salesforce Foundation about building strong and successful Salesforce nonprofit community, the need for nonprofits to have excellent planning for Salesforce adoption, and a number of jokes were made along the way.  Hey Tim, what's the word for using Twitter?</itunes:summary>
+            <itunes:subtitle>Cloud TnT talks with Alicia Schmidt and Marc Baiz…</itunes:subtitle>
+            <description>Cloud TnT talks with Alicia Schmidt and Marc Baizman from the Salesforce Foundation about building strong and successful Salesforce nonprofit community, the need for nonprofits to have excellent planning for Salesforce adoption, and a number of jokes were made along the way.  Hey Tim, what's the word for using Twitter?</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/218711762-cloud-tnt-episode-5-community-is-everything.mp3" length="31246662"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000125998341-lpmrx6-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/215562419</guid>
+            <title>Episode 4: There and Back Again</title>
+            <pubDate>Mon, 20 Jul 2015 18:26:19 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-4-there-and-back-again</link>
+            <itunes:duration>00:42:33</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Kevin Bromer talks William Shatner, Al Gore, the Salesforce Foundation early vision and ideals, running the Nonprofit Starter Pack, community leadership and the Advisory Board.  Cloud TnT talks crushes and The 300.</itunes:summary>
+            <itunes:subtitle>Kevin Bromer talks William Shatner, Al Gore, the …</itunes:subtitle>
+            <description>Kevin Bromer talks William Shatner, Al Gore, the Salesforce Foundation early vision and ideals, running the Nonprofit Starter Pack, community leadership and the Advisory Board.  Cloud TnT talks crushes and The 300.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/215562419-cloud-tnt-episode-4-there-and-back-again.mp3" length="25584213"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000123821988-2zp04g-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/213766924</guid>
+            <title>Episode 3: Community, Evil Consultants, Scrappy Nonprofit Administrators, and Other Good Things</title>
+            <pubDate>Wed, 08 Jul 2015 06:36:34 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/episode-3-community-evil-consultants-scrappy-nonprofit-administrators-and-other-good-things</link>
+            <itunes:duration>00:39:31</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Cloud TnT guest Vered Meir gets to the heart of being an Awesome Admin, nonprofit Salesforce community, and being less dependent on consultants.</itunes:summary>
+            <itunes:subtitle>Cloud TnT guest Vered Meir gets to the heart of b…</itunes:subtitle>
+            <description>Cloud TnT guest Vered Meir gets to the heart of being an Awesome Admin, nonprofit Salesforce community, and being less dependent on consultants.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/213766924-cloud-tnt-episode-3-community-evil-consultants-scrappy-nonprofit-administrators-and-other-good-things.mp3" length="23714516"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000122580035-23ro0s-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/211555900</guid>
+            <title>Episode 2: Strategy is Hard</title>
+            <pubDate>Tue, 23 Jun 2015 02:31:55 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/cloudtnt-episode-2-strategy-is-hard</link>
+            <itunes:duration>00:31:32</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>While Tim's on vacation, Joni, Tracy and guest Ryan Ozimek from PicNet tackle the big questions on technology, Salesforce, strategy and The Simpsons.</itunes:summary>
+            <itunes:subtitle>While Tim's on vacation, Joni, Tracy and guest Ry…</itunes:subtitle>
+            <description>While Tim's on vacation, Joni, Tracy and guest Ryan Ozimek from PicNet tackle the big questions on technology, Salesforce, strategy and The Simpsons.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/211555900-cloud-tnt-cloudtnt-episode-2-strategy-is-hard.mp3" length="18923658"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000121068803-1m0uuv-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/208440860</guid>
+            <title>Episode 1: Who We Are and Why We're Here</title>
+            <pubDate>Tue, 02 Jun 2015 14:20:09 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/cloudtnt-episode-1-who-we-are-and-why-were-here</link>
+            <itunes:duration>00:36:58</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Tim and Tracy talk why they're here, and passion abounds.</itunes:summary>
+            <itunes:subtitle>Tim and Tracy talk why they're here, and passion …</itunes:subtitle>
+            <description>Tim and Tracy talk why they're here, and passion abounds.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/208440860-cloud-tnt-cloudtnt-episode-1-who-we-are-and-why-were-here.mp3" length="22189644"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000118925332-oz2pjf-original.jpg"/>
+        </item><item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/208440341</guid>
+            <title>Episode 0: The Nonprofit Starter Pack, A History</title>
+            <pubDate>Tue, 02 Jun 2015 14:16:00 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/cloudtnt-episode-0-the-nonprofit-starter-pack-a-history</link>
+            <itunes:duration>00:32:52</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>An interview with Tucker MacLean, VP, Sales &amp; Marketing at Exponent Partners, regarding the history and development of the Nonprofit Starter Pack.  Tucker gets a new nickname, and Tim and Tracy cover happenings in the sector.</itunes:summary>
+            <itunes:subtitle>An interview with Tucker MacLean, VP, Sales &amp; Mar…</itunes:subtitle>
+            <description>An interview with Tucker MacLean, VP, Sales &amp; Marketing at Exponent Partners, regarding the history and development of the Nonprofit Starter Pack.  Tucker gets a new nickname, and Tim and Tracy cover happenings in the sector.</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/208440341-cloud-tnt-cloudtnt-episode-0-the-nonprofit-starter-pack-a-history.mp3" length="19724834"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000118924915-ukfuzc-original.jpg"/>
+        </item>
+    </channel>
+</rss>

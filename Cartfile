@@ -3,3 +3,6 @@ github "SwiftyBeaver/SwiftyBeaver"
 github "SnapKit/SnapKit" ~> 5.0.0
 github "Swinject/Swinject"
 github "HeroTransitions/Hero"
+github "Instagram/IGListKit" ~> 3.0
+github "nmdias/FeedKit" ~> 8.0
+github "onevcat/Kingfisher" ~> 5.0

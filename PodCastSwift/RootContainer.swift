@@ -8,8 +8,26 @@
 
 import Foundation
 import Swinject
+import Moya
+
+#if DEBUG
+var loggerPlugin: [PluginType] {
+    return [NetworkLoggerPlugin(verbose: true)]
+}
+#else
+var loggerPlugin: [PluginType] {
+    return []
+}
+#endif
 
 let rootContainer: Container = {
     let container = Container()
+    
+    var moyaPlugins: [PluginType] = []
+    moyaPlugins += loggerPlugin
+    
+    let provider = MoyaProvider<PodCastApi>(plugins: moyaPlugins)
+    
+    container.register(iTuneServiceType.self, factory: { _ in iTuneService(provider) })
     return container
 }()

@@ -41,7 +41,7 @@ extension PodCastApi: TargetType {
     var task: Task {
         switch self {
         case .search(let keyword):
-            return .requestParameters(parameters: ["term": keyword], encoding: parameterEncoding)
+            return .requestParameters(parameters: ["term": keyword, "media": "podcast"], encoding: parameterEncoding)
         }
     }
     
@@ -51,8 +51,10 @@ extension PodCastApi: TargetType {
             return ["Content-Type": "application/json;charset=UTF-8"]
         }
     }
-    
+}
+
+extension PodCastApi {
     var sampleData: Data {
-        return "".data(using: String.Encoding.utf8)!
+        return "".data(using: .utf8)!
     }
 }

@@ -2,7 +2,7 @@ import UIKit
 
 private func appDelegateClassName() -> String {
     let isTesting = NSClassFromString("XCTestCase") != nil
-    return isTesting ? "DribbbleTodoTests.StubAppDelegate" : NSStringFromClass(AppDelegate.self)
+    return isTesting ? "PodCastSwiftTests.StubAppDelegate" : NSStringFromClass(AppDelegate.self)
 }
 
 UIApplicationMain(

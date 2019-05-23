@@ -1,6 +1,8 @@
 import Crashlytics
 import Fabric
 import Hero
+import Kingfisher
+import Moya
 import RxCocoa
 import RxOptional
 import SnapKit
@@ -18,8 +20,11 @@ final class CompositionRoot {
     static func resolve() -> AppDependency {
         let window = UIWindow()
         window.backgroundColor = .white
-        window.rootViewController = SearchViewController()
         window.makeKeyAndVisible()
+
+        let iTuneService = rootContainer.resolve(iTuneServiceType.self)!
+        let searchReactor = SearchReactor(iTuneService)
+        window.rootViewController = SearchViewController(reactor: searchReactor)
         
         return AppDependency(
             window: window,
