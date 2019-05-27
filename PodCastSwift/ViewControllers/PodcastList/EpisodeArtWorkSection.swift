@@ -24,6 +24,9 @@ final class EpisodeArtWorkSection: ListSectionController {
         cell.trackCount.text = String(artwork?.trackCount ?? 0)
         return cell
     }
+    override func sizeForItem(at index: Int) -> CGSize {
+        return CGSize(width: collectionContext?.containerSize.width ?? 0, height: 40)
+    }
     
     override func didUpdate(to object: Any) {
         self.artwork = object as? EpisodeArtWork

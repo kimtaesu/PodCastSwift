@@ -19,7 +19,20 @@ struct Episode {
     var imageUrl: String?
     let streamUrl: String
     let duration: TimeInterval?
-    
+    let size: Int64
+
+    public init(episode: Int, title: String, pubDate: Date, description: String, author: String, imageUrl: String?, streamUrl: String, duration: TimeInterval?, size: Int64) {
+        self.episode = episode
+        self.title = title
+        self.pubDate = pubDate
+        self.description = description
+        self.author = author
+        self.imageUrl = imageUrl
+        self.streamUrl = streamUrl
+        self.duration = duration
+        self.size = size
+    }
+
     init(feedItem: RSSFeedItem) {
         self.episode = feedItem.iTunes?.iTunesEpisode ?? 0
         self.title = feedItem.title ?? ""
@@ -29,6 +42,6 @@ struct Episode {
         self.imageUrl = feedItem.iTunes?.iTunesImage?.attributes?.href
         self.streamUrl = feedItem.enclosure?.attributes?.url ?? ""
         self.duration = feedItem.iTunes?.iTunesDuration
-        
+        self.size = Int64(feedItem.enclosure?.attributes?.length ?? 0)
     }
 }

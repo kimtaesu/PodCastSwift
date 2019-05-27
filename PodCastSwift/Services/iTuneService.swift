@@ -12,7 +12,6 @@ import RxSwift
 
 // swiftlint:disable type_name
 class iTuneService: iTuneServiceType {
-
     private let provider: MoyaProvider<PodCastApi>
 
     init(_ provider: MoyaProvider<PodCastApi>) {

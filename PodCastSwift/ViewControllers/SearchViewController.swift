@@ -81,7 +81,7 @@ extension SearchViewController: View, HasDisposeBag {
         reactor.state.map { $0.selectedItem }
             .filterNil()
             .bind { [weak self] podcast in
-                let reactor = PodcastListReactor(podcast)
+                let reactor = PodcastListReactor(podcast: podcast, service: PodcastService())
                 self?.show(PodcastListViewController(reactor: reactor), sender: nil)
             }
             .disposed(by: disposeBag)

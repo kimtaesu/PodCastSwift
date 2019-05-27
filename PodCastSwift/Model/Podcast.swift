@@ -63,11 +63,6 @@ struct Podcast: Decodable, Equatable {
     }
 }
 
-extension Podcast {
-    func parseEpisodes() throws -> [Episode] {
-        return try EpisodeParser.parseEpisodes(url: feedUrl)
-    }
-}
 //enum WrapperType: String, Decodable {
 //    case track
 //    case collection

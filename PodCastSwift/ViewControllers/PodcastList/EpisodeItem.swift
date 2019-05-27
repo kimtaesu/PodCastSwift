@@ -19,8 +19,8 @@ final class EpisodeItem: NSObject {
     let imageUrl: String?
     let duration: TimeInterval?
 
-    public init(episode: Episode) {
-        self.imageUrl = episode.imageUrl
+    public init(episode: Episode, fallbackImage: String) {
+        self.imageUrl = episode.imageUrl ?? fallbackImage
         self.episodeNumber = episode.episode
         self.title = episode.title
         self.pubDate = episode.pubDate

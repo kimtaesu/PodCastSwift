@@ -9,11 +9,12 @@
 import Foundation
 import IGListKit
 import ReactorKit
+import Toaster
 import UIKit
 
 class PodcastListViewController: UIViewController {
 
-    let dataSource = PodcastListDataSource(episode: [])
+    var items: [ListDiffable] = []
 
     lazy var adapter: ListAdapter = {
         return ListAdapter(updater: ListAdapterUpdater(), viewController: self, workingRangeSize: 1)
@@ -30,7 +31,7 @@ class PodcastListViewController: UIViewController {
         super.init(nibName: nil, bundle: nil)
         adapter.do {
             $0.collectionView = podcastListView
-            $0.dataSource = dataSource
+            $0.dataSource = self
         }
         podcastListView.do {
             view.addSubview($0)
@@ -53,35 +54,34 @@ extension PodcastListViewController: View, HasDisposeBag {
     func bind(reactor: PodcastListReactor) {
         reactor.state.map { $0.objects }
             .bind {
-                self.dataSource.items = $0
+                self.items = $0
                 self.adapter.performUpdates(animated: true)
             }
             .disposed(by: disposeBag)
-    }
-}
 
-final class PodcastListDataSource: NSObject, ListAdapterDataSource {
+        reactor.state.map { $0.message }
+            .filterNil()
+            .bind {
+                Toast(text: $0).show()
+            }
+            .disposed(by: disposeBag)
 
-    var items: [ListDiffable] = []
-
-    init(episode: [ListDiffable]) {
-        self.items = episode
-    }
-
-    func objects(for listAdapter: ListAdapter) -> [ListDiffable] {
-        return items
-    }
-
-    func listAdapter(_ listAdapter: ListAdapter, sectionControllerFor object: Any) -> ListSectionController {
-        switch object {
-        case is EpisodeArtWork:
-            return EpisodeArtWorkSection()
-        default:
-            return EpisodeListSection()
-        }
-    }
-
-    func emptyView(for listAdapter: ListAdapter) -> UIView? {
-        return nil
+        reactor.state.map { $0.currentPlayingEpisode }
+            .filterNil()
+            .distinctUntilChanged()
+            .bind { [weak self] episode in
+                guard let self = self else { return }
+                if let streamViewConntroller = self.navigationController?.topViewController as? StreamViewController {
+                    streamViewConntroller.replaceReactor(StreamReactor(episode))
+                } else {
+                    let vc = StreamViewController(
+                        reactor: StreamReactor(episode),
+                        skipNext: { reactor.action.onNext(.skipNext) },
+                        skipPrev: { reactor.action.onNext(.skipPrev) }
+                    )
+                    self.show(vc, sender: self)
+                }
+            }
+            .disposed(by: disposeBag)
     }
 }

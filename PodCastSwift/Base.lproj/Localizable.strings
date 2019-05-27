@@ -19,3 +19,6 @@
 "task_descriptions_placeholder" = "Descriptions";
 
 "hero_task_title_id" = "hero_task_title_%@";
+
+"podcast_first_episode_message" = "처음 에피소드입니다.";
+"podcast_last_episode_message" = "마지막 에피소드입니다.";

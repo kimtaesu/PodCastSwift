@@ -18,6 +18,7 @@ target 'PodCastSwift' do
   pod 'Moya/ReactiveSwift', '~> 13.0'
   pod 'RxDataSources', '~> 3.0'
   pod 'RxOptional'
+  pod 'Toaster'
   # Pods for PodCastSwift
   def testing_pods
   pod 'Quick', '~> 1.3'

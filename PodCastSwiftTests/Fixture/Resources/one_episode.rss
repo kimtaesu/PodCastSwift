@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:155470080/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:155470080/sounds.rss?before=208440341" rel="next" type="application/rss+xml"/>
+        <title>Cloud TnT</title>
+        <link>http://www.cloudtnt.com</link>
+        <pubDate>Wed, 22 Feb 2017 01:38:44 +0000</pubDate>
+        <lastBuildDate>Wed, 22 Feb 2017 01:38:44 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>A podcast for nonprofits using Salesforce, Cloud TnT is an ongoing conversation about issues facing small but mighty organizations using Salesforce to accomplish their missions.
+            
+            Cloud TnT is a joint project of three friends from two companies: Tracy Kronzak (BrightStep Partners), Tim Lockie, and Joni Martin (Now IT Matters).  </description>
+        <itunes:subtitle>A podcast for nonprofits using Salesforce, Cloud …</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Cloud TnT</itunes:name>
+            <itunes:email>info@cloudtnt.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000178764542-vl3mon-original.jpg"/>
+        <image>
+            <url>http://i1.sndcdn.com/avatars-000178764542-vl3mon-original.jpg</url>
+            <title>Cloud TnT</title>
+            <link>http://www.cloudtnt.com</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/308927221</guid>
+            <title>When you want to be an archivist, but the webmaster leaves: Rachel Murray</title>
+            <pubDate>Wed, 22 Feb 2017 01:38:44 +0000</pubDate>
+            <link>https://soundcloud.com/cloud-tnt/rachelmurray</link>
+            <itunes:duration>00:57:12</itunes:duration>
+            <itunes:author>Tracy Kronzak, Tim Lockie, Joni Martin</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>While Tracy is out on a ski day, Tim and Joni are joined by the amazing ​Rachel Murray from She Geeks Out​ who shares her journey from an aspiring archivist to leading corporate trainings to foster an inclusive culture. Don't miss the rambling conversation which includes movies, presents for adolescents, favorite wordpress plugins, B Corps, and organizational trainings. Plus a shout out cameo from our favorite podcast editor!</itunes:summary>
+            <itunes:subtitle>While Tracy is out on a ski day, Tim and Joni are…</itunes:subtitle>
+            <description>While Tracy is out on a ski day, Tim and Joni are joined by the amazing ​Rachel Murray from She Geeks Out​ who shares her journey from an aspiring archivist to leading corporate trainings to foster an inclusive culture. Don't miss the rambling conversation which includes movies, presents for adolescents, favorite wordpress plugins, B Corps, and organizational trainings. Plus a shout out cameo from our favorite podcast editor!</description>
+            <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/308927221-cloud-tnt-rachelmurray.mp3" length="22069144"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000208961749-bhx1ul-original.jpg"/>
+        </item>
+    </channel>
+</rss>
