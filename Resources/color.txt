@@ -8,3 +8,10 @@ colorAccent: c62828
 bgEditTitle: f6f6f6
 bgTaskCell: eaeaea
 taskEditTextColor: cccccc
+
+episodeTitle: #173f5f
+episodeDuration: episodeTitle
+episodeDesc: #393b45
+episodeDescReadMore: #f6d55c
+episodePubDate: #584848
+

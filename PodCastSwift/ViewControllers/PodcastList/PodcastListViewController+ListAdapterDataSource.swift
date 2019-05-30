@@ -29,6 +29,7 @@ extension PodcastListViewController: ListAdapterDataSource, EpisodeListSectionCo
     func emptyView(for listAdapter: ListAdapter) -> UIView? {
         return nil
     }
+    
     func presentEpisode(_ sectionController: EpisodeListSection) {
         let index = adapter.section(for: sectionController)
         reactor?.action.onNext(.presentEpisode(index))

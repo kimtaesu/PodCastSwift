@@ -12,7 +12,3 @@ import RxSwift
 protocol iTuneServiceType {
     func searchPodcasts(keyword: String) -> Single<[Podcast]>
 }
-
-protocol PodcastServiceType {
-    func parseEpisodes(url: String?) throws -> Observable<[Episode]>
-}

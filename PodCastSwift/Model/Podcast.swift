@@ -32,6 +32,7 @@ struct Podcast: Decodable, Equatable {
 //    let country: Country
 //    let currency: Currency
     let primaryGenreName: String
+    let artworkUrl60: String
     let artworkUrl600: String
 //    let genreIds,
 //    let genres: [String]
@@ -50,13 +51,14 @@ struct Podcast: Decodable, Equatable {
         case feedUrl
         case trackCount
 //        case trackViewURL
-//        case artworkUrl30, artworkUrl60, artworkUrl100, collectionPrice, trackPrice, trackRentalPrice
+// collectionPrice, trackPrice, trackRentalPrice
 //        case collectionHDPrice
 //        case trackHDPrice
 //        case trackHDRentalPrice
         case releaseDate
 //        collectionExplicitness, trackExplicitness, trackCount, country, currency,
         case primaryGenreName
+        case artworkUrl60
         case artworkUrl600
 //        case genreIds
 //        case genres

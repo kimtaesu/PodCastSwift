@@ -20,10 +20,17 @@ class PodcastListViewController: UIViewController {
         return ListAdapter(updater: ListAdapterUpdater(), viewController: self, workingRangeSize: 1)
     }()
 
-    let podcastListView = UICollectionView(frame: .zero, collectionViewLayout: UICollectionViewFlowLayout())
+    let favoriteBarButton = UIBarButtonItem(image: Asset.icFavorite24pt.image, style: .done, target: nil, action: nil)
+    let podcastListView: UICollectionView = {
+        let flowLayout = UICollectionViewFlowLayout()
+        flowLayout.estimatedItemSize = UICollectionViewFlowLayout.automaticSize
+        let collectionView = UICollectionView(frame: .zero, collectionViewLayout: flowLayout)
+        return collectionView
+    }()
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        navigationItem.rightBarButtonItem = favoriteBarButton
     }
 
     init(reactor: PodcastListReactor) {
@@ -52,6 +59,7 @@ class PodcastListViewController: UIViewController {
 
 extension PodcastListViewController: View, HasDisposeBag {
     func bind(reactor: PodcastListReactor) {
+        
         reactor.state.map { $0.objects }
             .bind {
                 self.items = $0
@@ -59,11 +67,19 @@ extension PodcastListViewController: View, HasDisposeBag {
             }
             .disposed(by: disposeBag)
 
+        favoriteBarButton.rx.tap
+            .map { Reactor.Action.tapsFavorite }
+            .bind(to: reactor.action)
+            .disposed(by: disposeBag)
+
         reactor.state.map { $0.message }
             .filterNil()
-            .bind {
-                Toast(text: $0).show()
-            }
+            .bind { Toast(text: $0).show() }
+            .disposed(by: disposeBag)
+
+        reactor.state.map { $0.navTitle }
+            .distinctUntilChanged()
+            .bind(to: navigationItem.rx.title)
             .disposed(by: disposeBag)
 
         reactor.state.map { $0.currentPlayingEpisode }
@@ -71,7 +87,7 @@ extension PodcastListViewController: View, HasDisposeBag {
             .distinctUntilChanged()
             .bind { [weak self] episode in
                 guard let self = self else { return }
-                if let streamViewConntroller = self.navigationController?.topViewController as? StreamViewController {
+                if let streamViewConntroller = self.presentedViewController as? StreamViewController {
                     streamViewConntroller.replaceReactor(StreamReactor(episode))
                 } else {
                     let vc = StreamViewController(
@@ -79,7 +95,7 @@ extension PodcastListViewController: View, HasDisposeBag {
                         skipNext: { reactor.action.onNext(.skipNext) },
                         skipPrev: { reactor.action.onNext(.skipPrev) }
                     )
-                    self.show(vc, sender: self)
+                    self.present(vc, animated: true)
                 }
             }
             .disposed(by: disposeBag)

@@ -20,8 +20,8 @@ class SearchReactor: Reactor {
     }
 
     enum Action {
-        case refresh
         case itemSelected(IndexPath)
+        case setKeyword(String?)
     }
     
     struct State {
@@ -34,6 +34,12 @@ class SearchReactor: Reactor {
         var isLoading: Bool?
         var error: Error?
         var selectedItem: Podcast?
+        
+        mutating func disposeState() {
+            selectedItem = nil
+            error = nil
+            isLoading = nil
+        }
     }
     enum Mutation {
         case setPodcasts([Podcast])
@@ -43,14 +49,12 @@ class SearchReactor: Reactor {
     }
     func mutate(action: Action) -> Observable<Mutation> {
         switch action {
-        case .itemSelected(let ip):
-            let item = currentState.podcastSections[ip.section].items[ip.row]
-            return .just(Mutation.setItemSelected(item))
-        case .refresh:
+        case .setKeyword(let keyword):
+//            guard let keyword = keyword, keyword.isNotEmpty else { return .empty() }
             return Observable.concat([
                 Observable.just(Mutation.setLoading(true)),
                 self.iTuneService
-                    .searchPodcasts(keyword: "Jone")
+                    .searchPodcasts(keyword: "asd")
                     .asObservable()
                     .map {
                         Mutation.setPodcasts($0)
@@ -61,10 +65,14 @@ class SearchReactor: Reactor {
                     }),
                 Observable.just(Mutation.setLoading(false))
                 ])
+        case .itemSelected(let ip):
+            let item = currentState.podcastSections[ip.section].items[ip.row]
+            return .just(Mutation.setItemSelected(item))
         }
     }
     func reduce(state: State, mutation: Mutation) -> State {
         var newState = state
+        newState.disposeState()
         switch mutation {
         case .setItemSelected(let item):
             newState.selectedItem = item

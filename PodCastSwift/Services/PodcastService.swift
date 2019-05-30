@@ -8,10 +8,24 @@
 
 import Foundation
 import RxSwift
+import CoreData
 
 class PodcastService: PodcastServiceType {
-    func parseEpisodes(url: String?) throws -> Observable<[Episode]> {
-        let episodes = try EpisodeParser.parseEpisodes(url: url)
-        return .just(episodes)
+    
+    let executor: RxDispatcherSchedulersType
+    
+    init(_ executor: RxDispatcherSchedulersType) {
+        self.executor = executor
     }
+    
+    func parseEpisodes(podcast: Podcast) throws -> Observable<[Episode]> {
+        return Observable.deferred {
+            let episodes = try EpisodeParser.parseEpisodes(podcast: podcast)
+            return .just(episodes)
+        }.subscribeOn(executor.io)
+    }
+    func savePodcast(_ podcast: Podcast) {
+        
+    }
+    
 }

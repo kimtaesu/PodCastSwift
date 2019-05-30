@@ -15,13 +15,11 @@ final class EpisodeItem: NSObject {
     let desc: String
     let author: String
     let streamUrl: String
-    let episodeNumber: Int
     let imageUrl: String?
     let duration: TimeInterval?
 
     public init(episode: Episode, fallbackImage: String) {
         self.imageUrl = episode.imageUrl ?? fallbackImage
-        self.episodeNumber = episode.episode
         self.title = episode.title
         self.pubDate = episode.pubDate
         self.desc = episode.description
@@ -29,11 +27,17 @@ final class EpisodeItem: NSObject {
         self.streamUrl = episode.streamUrl
         self.duration = episode.duration
     }
+    
+    override var description: String {
+        return """
+        \(self.title)
+        """
+    }
 }
 
 extension EpisodeItem: ListDiffable {
     func diffIdentifier() -> NSObjectProtocol {
-        return (title + String(episodeNumber)) as NSObjectProtocol
+        return self as NSObjectProtocol
     }
     
     func isEqual(toDiffableObject object: ListDiffable?) -> Bool {

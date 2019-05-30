@@ -19,9 +19,19 @@ struct Episode {
     var imageUrl: String?
     let streamUrl: String
     let duration: TimeInterval?
-    let size: Int64
+    let size: Int
 
-    public init(episode: Int, title: String, pubDate: Date, description: String, author: String, imageUrl: String?, streamUrl: String, duration: TimeInterval?, size: Int64) {
+    public init(
+        episode: Int,
+        title: String,
+        pubDate: Date,
+        description: String,
+        author: String,
+        imageUrl: String?,
+        streamUrl: String,
+        duration: TimeInterval?,
+        size: Int,
+        artworkUrl60: String) {
         self.episode = episode
         self.title = title
         self.pubDate = pubDate
@@ -33,15 +43,15 @@ struct Episode {
         self.size = size
     }
 
-    init(feedItem: RSSFeedItem) {
+    init(podcast: Podcast, feedItem: RSSFeedItem) {
         self.episode = feedItem.iTunes?.iTunesEpisode ?? 0
         self.title = feedItem.title ?? ""
         self.pubDate = feedItem.pubDate ?? Date()
-        self.description = feedItem.iTunes?.iTunesSubtitle ?? feedItem.description ?? ""
+        self.description = feedItem.description ?? feedItem.iTunes?.iTunesSubtitle ?? ""
         self.author = feedItem.iTunes?.iTunesAuthor ?? ""
-        self.imageUrl = feedItem.iTunes?.iTunesImage?.attributes?.href
+        self.imageUrl = feedItem.iTunes?.iTunesImage?.attributes?.href ?? podcast.artworkUrl60
         self.streamUrl = feedItem.enclosure?.attributes?.url ?? ""
         self.duration = feedItem.iTunes?.iTunesDuration
-        self.size = Int64(feedItem.enclosure?.attributes?.length ?? 0)
+        self.size = Int(feedItem.enclosure?.attributes?.length ?? 0)
     }
 }

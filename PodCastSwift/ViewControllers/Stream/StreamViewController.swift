@@ -8,9 +8,10 @@
 
 import AVKit
 import Foundation
+import Hero
 import ReactorKit
-import UIKit
 import RxSwift
+import UIKit
 
 class PodcastPlayer {
     static let shared = AVPlayer()
@@ -95,6 +96,7 @@ class StreamViewController: UIViewController {
         self.navigationController?.interactivePopGestureRecognizer?.isEnabled = false
         thumbnail.do {
             view.addSubview($0)
+            $0.isUserInteractionEnabled = true
             $0.snp.makeConstraints {
                 let width = view.frame.width
                 $0.leading.equalTo(safeAreaLeading)

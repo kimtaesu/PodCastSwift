@@ -7,8 +7,8 @@
 //
 
 import Foundation
-import Swinject
 import Moya
+import Swinject
 
 #if DEBUG
 var loggerPlugin: [PluginType] {

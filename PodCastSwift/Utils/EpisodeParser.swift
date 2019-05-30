@@ -13,8 +13,8 @@ enum EpisodeParseError: Error {
     case mistypeRSS
 }
 class EpisodeParser {
-    class func parseEpisodes(url: String?) throws -> [Episode] {
-        guard let feedURL = url, let url = URL(string: feedURL) else { throw EpisodeParseError.emptyURL }
+    class func parseEpisodes(podcast: Podcast) throws -> [Episode] {
+        guard let feedURL = podcast.feedUrl, let url = URL(string: feedURL) else { throw EpisodeParseError.emptyURL }
         let data = FeedParser(URL: url).parse()
         switch data {
         case .failure(let error):
@@ -25,7 +25,7 @@ class EpisodeParser {
             throw EpisodeParseError.mistypeRSS
         case .rss(let rss):
             return rss.items?.compactMap { feed in
-                Episode(feedItem: feed)
+                Episode(podcast: podcast, feedItem: feed)
                 } ?? []
         }
     }

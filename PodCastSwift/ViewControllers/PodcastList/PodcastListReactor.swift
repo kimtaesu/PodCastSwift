@@ -29,18 +29,19 @@ class PodcastListReactor: Reactor, PrintLogReactor {
         case presentEpisode(Int)
         case skipNext
         case skipPrev
+        case tapsFavorite
     }
     struct State {
         var podcast: Podcast
         var objects: [ListDiffable] = []
         var episodes: [EpisodeItem] = []
-        var artwork: EpisodeArtWork
         var currentPlayingEpisode: EpisodeItem?
         var currentPlayingIndex: Int?
-
+        var navTitle: String
+        
         public init(podcast: Podcast) {
             self.podcast = podcast
-            self.artwork = EpisodeArtWork(podcast: podcast)
+            self.navTitle = "\(podcast.artistName)"
         }
 
         var message: String?
@@ -56,6 +57,8 @@ class PodcastListReactor: Reactor, PrintLogReactor {
     }
     func mutate(action: Action) -> Observable<Mutation> {
         switch action {
+        case .tapsFavorite:
+            return .empty()
         case .skipPrev:
             if let index = currentState.currentPlayingIndex {
                 let prevIndex = index - 1
@@ -84,7 +87,7 @@ class PodcastListReactor: Reactor, PrintLogReactor {
                 Observable.just(.setLoading(true)),
                 Observable.just(self.currentState.podcast)
                     .concatMap { podcast in
-                        try self.podcastService.parseEpisodes(url: podcast.feedUrl)
+                        try self.podcastService.parseEpisodes(podcast: podcast)
                             .map { $0.map { EpisodeItem(episode: $0, fallbackImage: podcast.artworkUrl600) } }
                     }
                     .map { Mutation.setEpisodes($0) }
@@ -107,7 +110,6 @@ class PodcastListReactor: Reactor, PrintLogReactor {
         case .setEpisodes(let episodes):
             newState.episodes = episodes
             var items: [ListDiffable] = []
-            items.append(newState.artwork)
             items.append(contentsOf: newState.episodes)
             newState.objects = items
         case .setLoading(let loading):

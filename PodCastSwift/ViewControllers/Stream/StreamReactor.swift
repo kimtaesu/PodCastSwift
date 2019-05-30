@@ -56,7 +56,7 @@ class StreamReactor: Reactor, PrintLogReactor {
         public init(episode: EpisodeItem) {
             currentSlider = 0
             currentTime = CMTimeMake(value: 0, timescale: 1)
-            duration = episode.duration ?? 0
+            duration = Double(episode.duration ?? 0)
             if let streamURL = URL(string: episode.streamUrl) {
                 playerItem = AVPlayerItem(url: streamURL)
             }

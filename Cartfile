@@ -6,3 +6,5 @@ github "HeroTransitions/Hero"
 github "Instagram/IGListKit" ~> 3.0
 github "nmdias/FeedKit" ~> 8.0
 github "onevcat/Kingfisher" ~> 5.0
+github "apploft/ExpandableLabel"
+github "realm/realm-cocoa"
