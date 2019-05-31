@@ -34,7 +34,6 @@ class PodcastListReactor: Reactor, PrintLogReactor {
     struct State {
         var podcast: Podcast
         var objects: [ListDiffable] = []
-        var episodes: [EpisodeItem] = []
         var currentPlayingEpisode: EpisodeItem?
         var currentPlayingIndex: Int?
         var navTitle: String
@@ -54,11 +53,16 @@ class PodcastListReactor: Reactor, PrintLogReactor {
         case currentPlayingEpisode(Int)
         case setEpisodes([EpisodeItem])
         case setMessage(String)
+        case savedPodcast(Podcast)
     }
     func mutate(action: Action) -> Observable<Mutation> {
         switch action {
         case .tapsFavorite:
-            return .empty()
+            return self.podcastService.saveFavorite(currentState.podcast)
+                .map { Mutation.savedPodcast($0) }
+                .catchError({ error  in
+                    return .just(.setError(error))
+                })
         case .skipPrev:
             if let index = currentState.currentPlayingIndex {
                 let prevIndex = index - 1
@@ -102,16 +106,15 @@ class PodcastListReactor: Reactor, PrintLogReactor {
         var newState = state
 
         switch mutation {
+        case .savedPodcast:
+            break
         case .currentPlayingEpisode(let index):
             newState.currentPlayingEpisode = newState.objects[index] as? EpisodeItem
             newState.currentPlayingIndex = index
         case .setError(let e):
             newState.error = e
         case .setEpisodes(let episodes):
-            newState.episodes = episodes
-            var items: [ListDiffable] = []
-            items.append(contentsOf: newState.episodes)
-            newState.objects = items
+            newState.objects = episodes
         case .setLoading(let loading):
             newState.isLoading = loading
         case .setMessage(let msg):

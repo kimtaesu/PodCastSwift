@@ -12,5 +12,7 @@ import RxSwift
 protocol PodcastServiceType {
     func parseEpisodes(podcast: Podcast) throws -> Observable<[Episode]>
     
-    func savePodcast(_ podcast: Podcast)
+    func saveFavorite(_ podcast: Podcast) -> Observable<Podcast>
+    
+    func fetchFavorites() -> Observable<[PodcastRealm]>
 }

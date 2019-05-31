@@ -13,11 +13,31 @@ class PodcastCell: UICollectionViewCell, SwiftNameIdentifier {
 
     struct Metric {
         static let thumbnailWidth: CGFloat = 60
-        static let descLeftMargin: CGFloat = 20
     }
-    
+
     let thumbnailView = UIImageView()
-    let desctionView: UILabel = {
+    
+    let genre: UILabel = {
+        let label = UILabel()
+        label.translatesAutoresizingMaskIntoConstraints = false
+        return label
+    }()
+    let trackCount: UILabel = {
+        let label = UILabel()
+        label.font = label.font.withSize(12)
+        label.translatesAutoresizingMaskIntoConstraints = false
+        return label
+    }()
+    
+    let artistName: UILabel = {
+        let label = UILabel()
+        label.numberOfLines = 0
+        label.translatesAutoresizingMaskIntoConstraints = false
+        label.lineBreakMode = .byWordWrapping
+        return label
+    }()
+    
+    let trackName: UILabel = {
         let label = UILabel()
         label.numberOfLines = 0
         label.translatesAutoresizingMaskIntoConstraints = false
@@ -37,13 +57,39 @@ class PodcastCell: UICollectionViewCell, SwiftNameIdentifier {
                 $0.height.equalTo(width)
             }
         }
-        desctionView.do {
+        artistName.do {
             contentView.addSubview($0)
+            $0.setContentCompressionResistancePriority(.init(251), for: .vertical)
             $0.snp.makeConstraints {
                 $0.leading.equalTo(thumbnailView.snp.trailing).inset(-12)
                 $0.top.equalToSuperview()
-                $0.bottom.equalToSuperview()
                 $0.trailing.equalToSuperview()
+            }
+        }
+        trackName.do {
+            contentView.addSubview($0)
+            $0.setContentCompressionResistancePriority(.init(250), for: .vertical)
+            $0.snp.makeConstraints {
+                $0.leading.equalTo(artistName.snp.leading)
+                $0.top.equalTo(artistName.snp.bottom)
+                $0.trailing.equalToSuperview()
+            }
+        }
+        genre.do {
+            contentView.addSubview($0)
+            $0.snp.makeConstraints {
+                $0.leading.equalTo(artistName.snp.leading)
+                $0.top.equalTo(trackName.snp.bottom)
+                $0.trailing.equalToSuperview()
+            }
+        }
+        trackCount.do {
+            contentView.addSubview($0)
+            $0.snp.makeConstraints {
+                $0.leading.equalTo(artistName.snp.leading)
+                $0.trailing.equalToSuperview()
+                $0.top.equalTo(genre.snp.bottom)
+                $0.bottom.equalToSuperview()
             }
         }
     }
@@ -52,6 +98,7 @@ class PodcastCell: UICollectionViewCell, SwiftNameIdentifier {
         fatalError("init(coder:) has not been implemented")
     }
     override func preferredLayoutAttributesFitting(_ layoutAttributes: UICollectionViewLayoutAttributes) -> UICollectionViewLayoutAttributes {
+        layoutIfNeeded()
         layoutAttributes.bounds.size.height = systemLayoutSizeFitting(UIView.layoutFittingCompressedSize).height
         return layoutAttributes
     }

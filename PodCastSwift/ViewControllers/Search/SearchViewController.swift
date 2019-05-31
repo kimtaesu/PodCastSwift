@@ -35,11 +35,10 @@ class SearchViewController: UIViewController {
         return .init(
             configureCell: { dataSource, cv, indexPath, item in
                 guard let cell: PodcastCell = cv.dequeueReusableCell(withReuseIdentifier: PodcastCell.swiftIdentifier, for: indexPath) as? PodcastCell else { return UICollectionViewCell() }
-                cell.desctionView.attributedText = NSMutableAttributedString().then {
-                    $0.append(NSAttributedString(string: "\(item.trackName)\n", attributes: [.foregroundColor: ColorName.colorPrimary]))
-                    $0.append(NSAttributedString(string: "\(item.artistName)\n", attributes: [.foregroundColor: ColorName.colorPrimary]))
-                    $0.append(NSAttributedString(string: "\(item.trackCount) episodes", attributes: [.foregroundColor: ColorName.colorPrimary]))
-                }
+                cell.trackCount.text = "\(item.trackCount)"
+                cell.artistName.text = item.artistName
+                cell.trackName.text = item.trackName
+                cell.genre.text = item.primaryGenreName
                 cell.thumbnailView.kf.setImage(with: URL(string: item.artworkUrl60))
                 return cell
             }

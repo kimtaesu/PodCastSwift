@@ -33,7 +33,7 @@ class HomeReactor: Reactor {
 
     func createTabbarViewControllers() -> [UIViewController] {
         return [
-            UINavigationController(rootViewController: FavoriteViewController(reactor: FavoriteReactor()).then {
+            UINavigationController(rootViewController: FavoriteViewController(reactor: FavoriteReactor(PodcastService())).then {
                 $0.tabBarItem.title = "Favorites"
                 $0.tabBarItem.image = Asset.icFavorite24pt.image
             }),

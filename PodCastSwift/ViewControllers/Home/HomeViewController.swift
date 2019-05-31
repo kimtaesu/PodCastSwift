@@ -7,8 +7,8 @@
 //
 
 import Foundation
-import UIKit
 import ReactorKit
+import UIKit
 
 class HomeViewController: UITabBarController {
 
